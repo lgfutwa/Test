@@ -1,0 +1,95 @@
+# Upgrade Notes: MPhil IB Proposal → FOI Framework
+
+**Student:** Linda Futwa (24126196)  
+**Original proposal result:** 77% (Pass / A)  
+**Upgrade purpose:** Correct, refine and theoretically upgrade the proposal in response to supervisor feedback and construct-validity issues.
+
+---
+
+## What changed and why
+
+### 1. Theoretical hook (supervisor priority)
+
+| Before | After |
+|---|---|
+| FinTech as a digital enabler of INV constructs | **FinTech Resource Orchestration (FTRO)** as the missing mechanism |
+| Claim to “extend INV theory” without specifying how | Explicit FOI Framework: FinTech portfolio → FTRO → capabilities → outcomes |
+| Implied that literature treats technology as generating advantage | More accurate claim: literature leaves the organisational mechanism unspecified |
+
+### 2. Research questions
+
+| Before | After |
+|---|---|
+| Which tools are commonly adopted? | How are FinTech resources **structured, bundled and leveraged**? |
+| How do tools mitigate barriers? | What **capabilities** are generated, and how do they shape outcomes? |
+| What factors moderate effectiveness? | How do **organisational readiness** and **institutional enablement** condition the process? |
+
+RQs are now analytical and mechanism-oriented, reducing the risk of purely descriptive findings.
+
+### 3. Construct corrections
+
+- **Speed-to-market** repositioned as an **outcome**, not an INV capability.
+- Original triad (resource leverage / speed-to-market / network coordination) replaced with four clarified capabilities:
+  1. Cross-border financial-operational capability
+  2. International regulatory-adaptation capability
+  3. International network-mobilisation capability
+  4. International opportunity-enactment capability
+- FinTech domains reclassified by **function** (settlement, financing, compliance/risk, trust/data infrastructure), avoiding category confusion between services, applications and architectures.
+- “Moderators” reframed as **contextual contingencies** appropriate to qualitative comparative analysis.
+
+### 4. Literature review upgrade
+
+- Moved from descriptive tool summaries to critical synthesis around the **capability-generation gap**.
+- Integrated **Resource Orchestration Theory** (Sirmon et al., 2007, 2011) with INV theory.
+- Used verified core sources only; removed or avoided unverifiable citations and unsupported quantitative claims (e.g., “40% faster export fulfilment,” “70% faster onboarding”).
+- Separated grey literature (IFC, OECD, McKinsey, WEF) into the business-rationale section.
+
+### 5. Methodology corrections
+
+| Before | After |
+|---|---|
+| Mixed grounded-theory language with Braun & Clarke | Coherent **abductive template analysis** (King & Brooks, 2017) |
+| Vague saturation claim | Operationalised theoretical adequacy criteria |
+| Leading interview probes (“Has blockchain improved trust?”) | Event-centred, non-leading probes |
+| Success-biased sampling risk | Maximum-variation sampling including constrained cases |
+| Online interviews unproblematised | Explicit discussion of digital-access and rapport biases |
+| NVivo presented as creating audit trails/reliability | Software treated as data-management aid; researcher audit trail required |
+
+### 6. Scope tightening
+
+- From “African SMEs” broadly → **technology-enabled service SMEs in Kenya, Nigeria and South Africa**.
+- Born Global / INV eligibility operationalised via early/accelerated internationalisation criteria.
+- Contribution bounded as analytical generalisation and FOI framework refinement.
+
+---
+
+## Supervisor feedback mapped to upgrades
+
+| Supervisor comment | Upgrade response |
+|---|---|
+| Theoretical need insufficiently articulated | FOI + FTRO as explicit theoretical hook |
+| Does not define how INV is extended | Serial mediation via orchestration and capability activation |
+| RQs too broad / descriptive | Process and mechanism RQs (RQ1–RQ4) |
+| Lit review descriptive | Critical synthesis + propositions |
+| Conceptual framework shallow | Fully specified FOI causal pathway and contingencies |
+| Method rationale weak | Explicit justification for multiple-case + abduction |
+| Saturation vague | Operational criteria and decision memo |
+| Interview guide alignment weak | Theory-linked guide mapped to FTRO and capabilities |
+| Referencing concerns | Clean verified reference list with DOIs |
+
+---
+
+## Files in this package
+
+- `MPhil_IB_Proposal_Upgraded.md` — full revised proposal ready for supervisor review / conversion to Word
+- `UPGRADE_NOTES.md` — this change log
+
+---
+
+## Recommended next steps for the student
+
+1. Convert the upgraded Markdown to GIBS Word format and insert Figure 2.1 visually.
+2. Have the supervisor validate the FOI framing before ethics submission.
+3. Before citing any additional empirical statistics, verify each source via DOI/publisher record.
+4. Pilot the interview guide with 1–2 respondents and revise probes.
+5. Build a recruitment matrix that deliberately varies country, FinTech configuration and internationalisation outcome.
