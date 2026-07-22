@@ -12,7 +12,7 @@ This chapter constructs the theoretical foundation of the study and develops the
 
 The argument in outline is as follows. Section 2.2 shows that international new venture (INV) theory explains *why* early and rapid internationalisation is possible but presumes, without explaining, that resource-constrained firms can assemble the financial infrastructure that cross-border operation requires. Section 2.3 shows that the resource-based tradition contains exactly the missing explanatory machinery — resource orchestration — but that this machinery has never been extended to financial technologies. Section 2.4 reconceptualises FinTech, against the prevailing adoption view, as a configurable portfolio of four complementary functional resource classes. Section 2.5 synthesises the empirical evidence linking FinTech and digitalisation to SME internationalisation, demonstrates that it shares a common direct-effect analytical structure, and identifies three anomalies within that literature's own findings that direct-effect models cannot accommodate — thereby specifying the capability-generation gap this study addresses. Section 2.6 develops the organisational and institutional contingencies that any account of FinTech-enabled internationalisation in African markets must theorise, including a non-monotonic argument about institutional voids. Section 2.7 integrates the argument into the FOI Framework and derives propositions P1–P6, each individually motivated. Section 2.8 concludes by making the golden thread explicit — from the research problem, through the framework, to the research questions and the methodology of Chapter 3.
 
-Throughout, the review privileges seminal works that define each construct (e.g., Oviatt & McDougall, 1994; Barney, 1991; Sirmon, Hitt, & Ireland, 2007) alongside recent research from leading journals that defines the current debate (e.g., Jean, Kim, & Cavusgil, 2020; Anwar, Li, Al-Omush, & Al-Nimer, 2023; Bargoni, Ferraris, Vilamová, & Wan Hussain, 2024; Hajizamani, Zakery, & Bonyadi Naieni, 2025).
+Throughout, the review privileges seminal works that define each construct (e.g., Oviatt & McDougall, 1994; Barney, 1991; Sirmon, Hitt, & Ireland, 2007) alongside recent research from leading journals that defines the current debate — in particular the wave of systematic reviews published between 2023 and 2025 that has consolidated the digital-internationalisation field and specified its open questions (Anwar, Li, Al-Omush, & Al-Nimer, 2023; Bargoni, Ferraris, Vilamová, & Wan Hussain, 2024; Yang, Bai, Chen, & Rong, 2025; Li, Surana, Chavan, Kano, Schotter, & Chirico, 2025; Hajizamani, Zakery, & Bonyadi Naieni, 2025).
 
 ## 2.2 SME Internationalisation: The Incremental–INV Debate and Its Unexplained Resource Base
 
@@ -91,7 +91,24 @@ The empirical literature connecting FinTech and digitalisation to SME internatio
 
 Beneath the headline, however, these studies share a common analytical structure. FinTech, digitalisation, or platform use enters as an *independent variable*; improved access, efficiency, or reach follows; internationalisation or performance results. It must be stated carefully — because overstating it would misrepresent the literature — that most of these studies do not explicitly claim that technology itself generates competitive advantage. Rather, they model FinTech as an enabling antecedent with a direct effect, *leaving the intervening organisational mechanism unspecified*. The distinction matters: the literature's limitation is an omission, not an error, and the appropriate response is a mechanism-based extension, not a refutation.
 
-### 2.5.2 Three anomalies the pattern cannot absorb
+### 2.5.2 The 2021–2025 consolidation: from *whether* to *how*
+
+The most recent phase of the literature sharpens rather than dissolves this problem, and engaging it directly strengthens the study's positioning. Between 2023 and 2025, a wave of systematic reviews consolidated the digital-internationalisation field at three levels of analysis, and their collective trajectory is unmistakable: the field has moved from asking *whether* digital technologies matter for internationalisation to asking *how* they support it — while stopping short, in every case, of theorising the FinTech-specific orchestration mechanism this study proposes. Table 2.1 synthesises these reviews.
+
+**Table 2.1 — Recent systematic reviews (2023–2025): contributions and the remaining gap**
+
+| Recent review | Level of analysis | Main contribution | Remaining gap addressed by this study |
+|---|---|---|---|
+| Yang, Bai, Chen, & Rong (2025), *Journal of Business Research* | Digital firms | Organises digital-firm internationalisation research around drivers, strategies, outcomes, and contexts; shows the field is fragmented, theoretically narrow, and lacking integrated frameworks | Calls explicitly for integrative, theory-extending frameworks but does not examine FinTech-specific resources or their firm-level configuration |
+| Li, Surana, Chavan, Kano, Schotter, & Chirico (2025), *Journal of World Business* | Digital platform-based firms | Systematises the characteristics, internationalisation patterns, and typologies of platform firms; identifies gaps and inconsistencies in current knowledge | Focuses on platform firms as producers of digital infrastructure; does not theorise how user SMEs develop financial capability from externally sourced digital services |
+| Bargoni, Ferraris, Vilamová, & Wan Hussain (2024), *Journal of Enterprise Information Management* | SMEs | Maps digitalisation–internationalisation research into technology-adoption, value-chain, and knowledge-acquisition domains; sets a research agenda | Identifies the integration of digitalisation into internationalisation theory as a principal open agenda item; mechanism unspecified |
+| Hajizamani, Zakery, & Bonyadi Naieni (2025), *Journal of Information Systems Engineering and Management* | SMEs (FinTech-specific) | Reviews 110 studies on FinTech and SME internationalisation; confirms FinTech reduces financing and transaction barriers and proposes an integrated framework | Conceptualises FinTech as an enabler; does not explain the organisational process through which SMEs combine multiple FinTech resources into internationalisation capabilities |
+| Rosyidah, Sudarmiatin, & Sumarsono (2023), *Journal of Enterprise and Development* | SMEs | Bibliometric review confirming digitalisation as an enabler of SME internationalisation; identifies under-explored themes including digital transformation and export performance | Treats digitalisation as an antecedent; the transformation of digital resources into international capabilities remains unexamined |
+| Anwar, Li, Al-Omush, & Al-Nimer (2023), *Sustainability* | SMEs (finance, IT, networks) | Maps twenty-five years of research; establishes finance, IT, and network ties as complementary antecedents | Documents fragmentation across the three streams; calls for integrated theoretical explanations connecting finance, technology, and capability development |
+
+Three features of Table 2.1 carry argumentative weight. First, the reviews span journal tiers and levels of analysis — from top-tier consolidations of digital-firm and platform-firm research (Yang et al., 2025; Li et al., 2025) to SME-focused and FinTech-specific syntheses (Bargoni et al., 2024; Hajizamani et al., 2025; Rosyidah et al., 2023) — and they *converge* on the same diagnosis: fragmentation, theoretical narrowness, and the absence of integrated frameworks explaining capability development. When independent reviews at different levels reach the same conclusion, the gap is a property of the field, not an artefact of any single review's method. Second, the reviews closest to this study's phenomenon are the furthest from its mechanism: the FinTech-specific review (Hajizamani et al., 2025) conceptualises FinTech as an enabler and stops at the firm's boundary, while the platform review (Li et al., 2025) theorises the producers of digital infrastructure rather than the SMEs that must configure it. Third, the trajectory of the field's questions — from *whether* to *how* — makes a mechanism-based contribution timely: the FOI Framework answers the question the field has just learned to ask.
+
+### 2.5.3 Three anomalies the pattern cannot absorb
 
 The case for that extension rests on findings *within* the direct-effect literature that its own analytical structure cannot accommodate.
 
@@ -99,9 +116,9 @@ The case for that extension rests on findings *within* the direct-effect literat
 
 **Anomaly 2: technology as a double-edged resource.** Digital platforms — the technology class closest to FinTech in this literature — generate risks (from product specificity, foreign market uncertainty, competition, and home-market institutional voids) that significantly *reduce* the internationalisation scope of international new ventures; the negative effect is mitigated by the firm's entrepreneurial orientation (Jean et al., 2020). A resource whose net effect on internationalisation depends on firm-level strategic posture is not a direct-effect variable; it is an input into a firm-level process — which the direct-effect design cannot represent.
 
-**Anomaly 3: unexplained heterogeneity among similar adopters.** Firms embedded in the same ecosystems, with access to the same FinTech services, diverge sharply in international outcomes. Under a direct-effect model this heterogeneity is error variance. The systematic reviews register it as a limitation: Anwar et al. (2023) call for integrated theoretical explanations connecting finance, technology, and capability development; Bargoni et al. (2024) identify the integration of digitalisation into internationalisation theory as a principal agenda item; Hajizamani et al. (2025) confirm the enabling role of FinTech while leaving the firm-level conversion process unaddressed.
+**Anomaly 3: unexplained heterogeneity among similar adopters.** Firms embedded in the same ecosystems, with access to the same FinTech services, diverge sharply in international outcomes. Under a direct-effect model this heterogeneity is error variance. The systematic reviews of Section 2.5.2 register it as a limitation from every level of analysis: Anwar et al. (2023) call for integrated theoretical explanations connecting finance, technology, and capability development; Bargoni et al. (2024) identify the integration of digitalisation into internationalisation theory as a principal agenda item; Yang et al. (2025) diagnose the digital-firm literature as fragmented, theoretically narrow, and lacking integrated frameworks; and Hajizamani et al. (2025) confirm the enabling role of FinTech while leaving the firm-level conversion process unaddressed.
 
-### 2.5.3 The capability-generation gap
+### 2.5.4 The capability-generation gap
 
 The three anomalies triangulate on a single missing term: the organisational process standing between resource and outcome. Four questions therefore remain insufficiently answered by the existing literature:
 
@@ -171,7 +188,7 @@ Consistent with the abductive design of Chapter 3, the propositions function as 
 
 **P2 (Capability formation).** *FTRO — structuring, bundling, and leveraging FinTech resources — generates cross-border financial-operational, regulatory-adaptation, network-mobilisation, and opportunity-enactment capabilities.* Motivation: this is the framework's core conversion claim, transposing ROT's resource-to-capability logic (Sirmon et al., 2007, 2011) into the FinTech domain and supplying the capability-formation account INV theory presumes (Oviatt & McDougall, 1994; Coviello, 2006).
 
-**P3 (Serial mediation).** *The relationship between an SME's FinTech resource portfolio and its internationalisation outcomes operates through FTRO and the resulting capabilities in sequence, rather than through direct effects of adoption.* Motivation: the three anomalies of Section 2.5.2 — the null direct effect among internationalised firms, technology's contingent double-edged effects, and heterogeneity among similar adopters — are jointly explicable if, and only if, an intervening organisational process carries the effect.
+**P3 (Serial mediation).** *The relationship between an SME's FinTech resource portfolio and its internationalisation outcomes operates through FTRO and the resulting capabilities in sequence, rather than through direct effects of adoption.* Motivation: the three anomalies of Section 2.5.3 — the null direct effect among internationalised firms, technology's contingent double-edged effects, and heterogeneity among similar adopters — are jointly explicable if, and only if, an intervening organisational process carries the effect; and the 2023–2025 reviews of Section 2.5.2 independently converge on the absence of exactly this term.
 
 **P4 (Complementarity).** *Strategically aligned configurations of complementary FinTech resources produce stronger internationalisation capabilities than isolated adoption of individual FinTech solutions.* Motivation: the functional interdependence of the four resource classes (Section 2.4.3) implies super-additive returns to aligned configurations — the bundling logic of ROT expressed at portfolio level — and yields the framework's most discriminating empirical prediction: narrow-but-integrated portfolios should outperform broad-but-disconnected ones.
 
@@ -245,6 +262,8 @@ Knight, G. A., & Liesch, P. W. (2016). Internationalization: From incremental to
 
 Lee, I., & Shin, Y. J. (2018). Fintech: Ecosystem, business models, investment decisions, and challenges. *Business Horizons, 61*(1), 35–46. https://doi.org/10.1016/j.bushor.2017.09.003
 
+Li, J., Surana, A., Chavan, M., Kano, L., Schotter, A., & Chirico, F. (2025). The internationalization of digital platform-based firms: A systematic literature review and directions for future research. *Journal of World Business, 60*(4), 101629. https://doi.org/10.1016/j.jwb.2025.101629
+
 Nambisan, S. (2017). Digital entrepreneurship: Toward a digital technology perspective of entrepreneurship. *Entrepreneurship Theory and Practice, 41*(6), 1029–1055. https://doi.org/10.1111/etap.12254
 
 Nambisan, S., Wright, M., & Feldman, M. (2019). The digital transformation of innovation and entrepreneurship: Progress, challenges and key themes. *Research Policy, 48*(8), 103773. https://doi.org/10.1016/j.respol.2019.03.018
@@ -254,6 +273,8 @@ North, D. C. (1990). *Institutions, institutional change and economic performanc
 Oviatt, B. M., & McDougall, P. P. (1994). Toward a theory of international new ventures. *Journal of International Business Studies, 25*(1), 45–64. https://doi.org/10.1057/palgrave.jibs.8490193
 
 Oviatt, B. M., & McDougall, P. P. (2005). Defining international entrepreneurship and modeling the speed of internationalization. *Entrepreneurship Theory and Practice, 29*(5), 537–553. https://doi.org/10.1111/j.1540-6520.2005.00097.x
+
+Rosyidah, U., Sudarmiatin, S., & Sumarsono, H. (2023). Digitalization and internationalization of SMEs: A systematic literature review. *Journal of Enterprise and Development, 5*(3), 479–499. https://doi.org/10.20414/jed.v5i3.7196
 
 Sirmon, D. G., Hitt, M. A., & Ireland, R. D. (2007). Managing firm resources in dynamic environments to create value: Looking inside the black box. *Academy of Management Review, 32*(1), 273–292. https://doi.org/10.5465/amr.2007.23466005
 
@@ -266,6 +287,8 @@ Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfound
 Vahlne, J.-E., & Johanson, J. (2017). From internationalization to evolution: The Uppsala model at 40 years. *Journal of International Business Studies, 48*(9), 1087–1102. https://doi.org/10.1057/s41267-017-0107-7
 
 Welter, F. (2011). Contextualizing entrepreneurship—Conceptual challenges and ways forward. *Entrepreneurship Theory and Practice, 35*(1), 165–184. https://doi.org/10.1111/j.1540-6520.2010.00427.x
+
+Yang, B., Bai, W., Chen, Y., & Rong, K. (2025). Internationalization of digital firms: A systematic review and research agenda. *Journal of Business Research, 189*, 115124. https://doi.org/10.1016/j.jbusres.2024.115124
 
 Zaheer, S. (1995). Overcoming the liability of foreignness. *Academy of Management Journal, 38*(2), 341–363. https://doi.org/10.5465/256683
 

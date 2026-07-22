@@ -40,7 +40,7 @@ First, **INV theory explains why early and rapid internationalisation is possibl
 
 Second, **the resource-based tradition contains the needed explanatory machinery, but it has not been extended to FinTech.** Resources alone do not confer advantage (Barney, 1991); resource orchestration theory specifies the managerial actions — structuring, bundling, and leveraging — through which resource endowments become value-creating capabilities (Sirmon et al., 2007, 2011). No prior study, to the researcher's knowledge, has applied this orchestration logic to the portfolio of financial technologies available to internationalising SMEs.
 
-Third, **the FinTech and digital-internationalisation literatures document enabling effects but not capability formation** — and contain findings their own direct-effect designs cannot absorb. Digitalisation shows no direct performance effect among already-internationalised SMEs (Joensuu-Salo, Sorama, Viljamaa, & Varamäki, 2018); digital platforms generate risks that reduce, rather than expand, the internationalisation scope of international new ventures (Jean, Kim, & Cavusgil, 2020); and recent systematic reviews conclude that finance, technology, and networks operate as complements whose integration existing theory does not explain (Anwar, Li, Al-Omush, & Al-Nimer, 2023; Bargoni, Ferraris, Vilamová, & Wan Hussain, 2024; Hajizamani, Zakery, & Bonyadi Naieni, 2025). These anomalies point to a missing intervening term: the organisational process between resource and outcome. Chapter 2 (Section 2.5) formalises this as the **capability-generation gap**.
+Third, **the FinTech and digital-internationalisation literatures document enabling effects but not capability formation** — and contain findings their own direct-effect designs cannot absorb. Digitalisation shows no direct performance effect among already-internationalised SMEs (Joensuu-Salo, Sorama, Viljamaa, & Varamäki, 2018); digital platforms generate risks that reduce, rather than expand, the internationalisation scope of international new ventures (Jean, Kim, & Cavusgil, 2020); and the wave of systematic reviews published between 2023 and 2025 — spanning digital firms (Yang, Bai, Chen, & Rong, 2025), digital platform-based firms (Li, Surana, Chavan, Kano, Schotter, & Chirico, 2025), and SMEs specifically (Anwar, Li, Al-Omush, & Al-Nimer, 2023; Bargoni, Ferraris, Vilamová, & Wan Hussain, 2024; Hajizamani, Zakery, & Bonyadi Naieni, 2025) — converges on the same diagnosis: the field is fragmented, theoretically narrow, and lacking integrated frameworks that explain capability development. The field has, in short, moved from asking *whether* digital technologies matter for internationalisation to asking *how* they support it, without yet supplying the FinTech-specific answer. These convergent findings point to a missing intervening term: the organisational process between resource and outcome. Chapter 2 (Section 2.5) formalises this as the **capability-generation gap**.
 
 ### 1.3.2 The theoretical hook
 
@@ -160,6 +160,8 @@ Knight, G. A., & Cavusgil, S. T. (2004). Innovation, organizational capabilities
 
 Lee, I., & Shin, Y. J. (2018). Fintech: Ecosystem, business models, investment decisions, and challenges. *Business Horizons, 61*(1), 35–46. https://doi.org/10.1016/j.bushor.2017.09.003
 
+Li, J., Surana, A., Chavan, M., Kano, L., Schotter, A., & Chirico, F. (2025). The internationalization of digital platform-based firms: A systematic literature review and directions for future research. *Journal of World Business, 60*(4), 101629. https://doi.org/10.1016/j.jwb.2025.101629
+
 North, D. C. (1990). *Institutions, institutional change and economic performance*. Cambridge University Press.
 
 Oviatt, B. M., & McDougall, P. P. (1994). Toward a theory of international new ventures. *Journal of International Business Studies, 25*(1), 45–64. https://doi.org/10.1057/palgrave.jibs.8490193
@@ -173,6 +175,8 @@ Sirmon, D. G., Hitt, M. A., Ireland, R. D., & Gilbert, B. A. (2011). Resource or
 Suri, T., & Jack, W. (2016). The long-run poverty and gender impacts of mobile money. *Science, 354*(6317), 1288–1292. https://doi.org/10.1126/science.aah5309
 
 Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. *Strategic Management Journal, 28*(13), 1319–1350. https://doi.org/10.1002/smj.640
+
+Yang, B., Bai, W., Chen, Y., & Rong, K. (2025). Internationalization of digital firms: A systematic review and research agenda. *Journal of Business Research, 189*, 115124. https://doi.org/10.1016/j.jbusres.2024.115124
 
 Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). Sage.
 
