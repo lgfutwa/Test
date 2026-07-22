@@ -1,0 +1,22 @@
+flowchart LR
+    OR["Organisational orchestration readiness<br/><small>Absorptive capacity · Digital capability<br/>Leadership commitment · Financial slack</small>"]
+    FR["FinTech resource portfolio<br/><small>Transaction & settlement<br/>Financing & liquidity<br/>Identity, compliance & risk<br/>Trust, assurance & data infrastructure</small>"]
+    FTRO["FinTech Resource Orchestration (FTRO)<br/><small>Structuring · Bundling · Leveraging</small><br/><br/><b>Output: Integrated cross-border<br/>FinTech capability</b>"]
+    IC["Cross-border internationalisation capabilities<br/><small>Financial-operational capability<br/>Regulatory-adaptation capability<br/>Network-mobilisation capability<br/>Opportunity-enactment capability</small>"]
+    IO["Internationalisation outcomes<br/><small>Entry speed · International scope<br/>International intensity<br/>Post-entry persistence & growth</small>"]
+    IE["Institutional enablement<br/><small>Regulatory coherence · Interoperability<br/>Digital infrastructure · Cybersecurity</small>"]
+
+    FR -->|"P2 · FTRO formation"| FTRO
+    FTRO -->|"P3 · Capability activation"| IC
+    IC -->|"P4 · Outcome generation"| IO
+    OR -.->|"P5 · First-stage contingency"| FTRO
+    IE -.->|"P6 · Second-stage contingency"| IO
+
+    P1["P1 · Necessary but insufficient inputs"] -.-> FR
+
+    classDef primary fill:#ffffff,stroke:#253b5b,stroke-width:2px,color:#172233;
+    classDef moderator fill:#f8fafc,stroke:#475569,stroke-width:2px,stroke-dasharray:7 5,color:#172233;
+    classDef proposition fill:transparent,stroke:transparent,color:#253b5b;
+    class FR,FTRO,IC,IO primary;
+    class OR,IE moderator;
+    class P1 proposition;

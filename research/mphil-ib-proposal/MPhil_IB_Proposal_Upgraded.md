@@ -141,25 +141,29 @@ The FOI Framework integrates three theoretical streams:
 2. **International New Venture theory** – explains early internationalisation through unique resources, alternative governance and cross-border coordination (Oviatt & McDougall, 1994; Zahra, 2005; Coviello, 2006).  
 3. **FinTech and digital internationalisation literature** – identifies digital financial and digital platform resources as strategically consequential for SMEs, while leaving orchestration mechanisms underspecified (Lee & Shin, 2018; Gomber et al., 2017; Jean & Kim, 2020; Anwar et al., 2023).
 
-The proposed causal pathway is:
+The proposed mechanism is:
 
 ```text
-FinTech Resource Portfolio
+FinTech Resource Portfolio (P1)
+           ↓ P2
+FinTech Resource Orchestration
+(structuring → bundling → leveraging)
            ↓
-FinTech Resource Orchestration (structuring → bundling → leveraging)
-           ↓
+Integrated Cross-Border FinTech Capability
+           ↓ P3
 Cross-Border Internationalisation Capabilities
-           ↓
+           ↓ P4
 Internationalisation Outcomes
 ```
 
 Two classes of contingency condition this pathway:
 
-- **Organisational orchestration readiness** conditions whether FinTech resources can be orchestrated.  
-- **Institutional enablement** conditions whether orchestrated capabilities can be deployed across borders.
+- **Organisational orchestration readiness (P5)** conditions whether FinTech resources can be orchestrated into integrated capability.
+- **Institutional enablement (P6)** conditions whether activated capabilities produce internationalisation outcomes.
 
-*Figure 2.1* Conceptual Model of FinTech-Orchestrated Internationalisation (FOI Framework)  
-Source: Author’s own.
+![Figure 2.1. The FinTech-Orchestrated Internationalisation Framework](figures/foi-framework.svg)
+
+*Figure 2.1. The FinTech-Orchestrated Internationalisation (FOI) Framework. Source: Author’s own.*
 
 ### 2.2 SME Internationalisation and INV Theory
 
@@ -266,12 +270,14 @@ The FOI Framework responds by shifting the theoretical focus from technology pos
 
 #### 2.7.3 Theoretical propositions
 
-- **P1:** The availability, quality, interoperability and strategic fit of an SME’s FinTech resource portfolio positively support the development of FTRO.  
-- **P2:** FTRO positively supports the development of cross-border financial-operational, regulatory-adaptation, network-mobilisation and opportunity-enactment capabilities.  
-- **P3:** The relationship between FinTech resource portfolios and internationalisation outcomes is serially mediated by FTRO and cross-border internationalisation capabilities.  
-- **P4:** Strategically aligned configurations of complementary FinTech resources generate stronger internationalisation capabilities than isolated adoption of individual FinTech solutions.  
-- **P5:** Organisational orchestration readiness strengthens the conversion of FinTech resource portfolios into FTRO.  
-- **P6:** Institutional enablement strengthens the conversion of orchestrated capabilities into internationalisation outcomes, whereas severe regulatory fragmentation and infrastructural deficiency weaken that conversion.
+The propositions correspond directly to Figure 2.1 and distinguish inputs, transformation processes, capabilities and outcomes.
+
+- **P1 — Necessary but insufficient inputs:** Transaction and settlement, financing and liquidity, identity, compliance and risk, and trust, assurance and data-infrastructure resources relax distinct barriers to SME internationalisation; possession of these resources alone is insufficient to generate internationalisation capability.
+- **P2 — FTRO formation:** FTRO—the structuring, bundling and leveraging of complementary FinTech resources—transforms discrete resources into an integrated cross-border FinTech capability; variation in FTRO explains why SMEs with similar resource portfolios differ in internationalisation readiness.
+- **P3 — Capability activation:** The integrated cross-border FinTech capability produced through FTRO activates financial-operational, regulatory-adaptation, network-mobilisation and opportunity-enactment capabilities.
+- **P4 — Outcome generation:** Activated cross-border capabilities support faster entry, greater international scope and intensity, and stronger post-entry persistence and growth, partly by reducing transaction, compliance, information and credibility disadvantages associated with liability of foreignness.
+- **P5 — First-stage contingency:** Absorptive capacity, digital capability, leadership commitment and financial slack strengthen the conversion of a FinTech resource portfolio through FTRO into integrated cross-border capability.
+- **P6 — Second-stage contingency:** Regulatory coherence, payment interoperability, digital infrastructure reliability and cybersecurity integrity strengthen the conversion of activated capabilities into internationalisation outcomes; adverse institutional conditions attenuate these returns.
 
 These propositions guide abductive case analysis. They are sensitising theoretical expectations rather than hypotheses for statistical testing.
 
@@ -468,10 +474,10 @@ Zahra, S. A. (2005). A theory of international new ventures: A decade of researc
 | Objective | Research Question | Key Constructs | Data & Instruments | Analysis | Anticipated Contribution |
 |---|---|---|---|---|---|
 | Develop FOI as mechanism-based extension of INV via ROT | **PRQ:** How do African technology-enabled service SMEs orchestrate FinTech resources to develop internationalisation capabilities? | FinTech portfolio; FTRO; cross-border capabilities; outcomes; contingencies | Multi-case interviews; secondary documents | Template analysis; within- and cross-case synthesis | Refined FOI Framework specifying FTRO as capability-generation mechanism |
-| Reconstruct orchestration processes | **RQ1** | Structuring, bundling, leveraging | Event-centred interview probes on tool selection, integration and redeployment | Process coding and within-case chronologies | Empirically grounded FTRO process model |
-| Identify activated capabilities | **RQ2** | Financial-operational; regulatory-adaptation; network-mobilisation; opportunity-enactment | Narrative accounts of what firms became able to do after orchestration | Capability coding; constant comparison | Capability typology linked to FinTech configurations |
-| Link capabilities to outcomes | **RQ3** | Entry speed; scope; intensity; persistence | Retrospective outcome narratives and secondary corroboration | Pattern matching to P3 | Mechanism-based outcome explanation |
-| Explain contextual variation | **RQ4** | Organisational readiness; institutional enablement | Comparative probes across firms and countries | Cross-case contingency analysis; negative cases | Boundary conditions for FTRO effectiveness |
+| Reconstruct orchestration processes | **RQ1** | Structuring, bundling, leveraging | Event-centred interview probes on tool selection, integration and redeployment | Process coding and within-case chronologies; pattern matching to P2 | Empirically grounded FTRO process model |
+| Identify activated capabilities | **RQ2** | Financial-operational; regulatory-adaptation; network-mobilisation; opportunity-enactment | Narrative accounts of what firms became able to do after orchestration | Capability coding; pattern matching to P3 | Capability typology linked to FinTech configurations |
+| Link capabilities to outcomes | **RQ3** | Entry speed; scope; intensity; persistence | Retrospective outcome narratives and secondary corroboration | Pattern matching to P4 | Mechanism-based outcome explanation |
+| Explain contextual variation | **RQ4** | Organisational readiness; institutional enablement | Comparative probes across firms and countries | Cross-case contingency analysis against P5–P6; negative cases | Boundary conditions for FTRO effectiveness |
 
 ### Appendix 2: Theory-Linked Interview Guide
 

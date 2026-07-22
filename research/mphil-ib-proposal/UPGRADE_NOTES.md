@@ -83,6 +83,17 @@ RQs are now analytical and mechanism-oriented, reducing the risk of purely descr
 
 - `MPhil_IB_Proposal_Upgraded.md` — full revised proposal ready for supervisor review / conversion to Word
 - `UPGRADE_NOTES.md` — this change log
+- `figures/foi-framework.svg` — publication-ready FOI framework figure
+- `figures/foi-framework.mmd` — editable Mermaid source for the figure
+
+### 7. Figure and proposition alignment
+
+- Replaced research-question labels on causal arrows with propositions P1–P6.
+- Separated FTRO processes from their output, the integrated cross-border FinTech capability.
+- Moved entry speed out of the capability box and into internationalisation outcomes.
+- Replaced the earlier INV triad with four independently observable cross-border capabilities.
+- Positioned P5 on the first-stage orchestration link and P6 on the capability-to-outcome link.
+- Aligned the consistency matrix and qualitative pattern-matching plan with the revised proposition numbering.
 
 ---
 

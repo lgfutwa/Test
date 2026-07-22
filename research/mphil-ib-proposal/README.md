@@ -8,6 +8,8 @@ Upgraded research proposal for GIBS MPhil in International Business (student 241
 |---|---|
 | `MPhil_IB_Proposal_Upgraded.md` | Full corrected and refined proposal |
 | `UPGRADE_NOTES.md` | Change log mapping supervisor feedback to upgrades |
+| `figures/foi-framework.svg` | Publication-ready FOI framework figure |
+| `figures/foi-framework.mmd` | Editable Mermaid source |
 
 ## Core theoretical upgrade
 
