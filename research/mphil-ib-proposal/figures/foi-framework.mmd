@@ -1,0 +1,46 @@
+%%{init: {"flowchart": {"htmlLabels": true, "curve": "basis"}, "themeVariables": {"fontFamily": "Georgia, 'Times New Roman', serif"}} }%%
+flowchart TB
+    %% FinTech-Orchestrated Internationalisation (FOI) Framework — v3.5
+    %% Graphic logic: contingencies as enclosures; FTRO as sequenced core with
+    %% internal reconfiguration; FTOC as intermediate product; P7 recursive return.
+
+    subgraph OR["ORGANISATIONAL ORCHESTRATION READINESS · P5<br/><i>absorptive capacity · digital capability · leadership commitment · financial slack</i>"]
+        direction TB
+        FR["FINTECH RESOURCE PORTFOLIO<br/><i>by type:</i> assets · infrastructure · services · intelligence<br/><i>by function:</i> settlement · financing · compliance · trust / data"]
+        subgraph FTRO["FTRO · THE ORCHESTRATION CORE"]
+            direction LR
+            S["STRUCTURING<br/><small>acquire · accumulate · divest</small>"]
+            B["BUNDLING<br/><small>integrate · stabilise · enrich</small>"]
+            L["LEVERAGING<br/><small>mobilise · coordinate · deploy</small>"]
+            S --> B --> L
+            L -.->|"reconfiguration within an entry episode"| S
+        end
+        FR -->|"P1 · necessary, insufficient"| FTRO
+    end
+
+    FTOC["FINTECH OPERATING CAPABILITY · FTOC<br/><i>the firm's working cross-border financial machinery</i><br/><small>immediate product of FTRO — logically prior to the organisational capabilities it activates</small>"]
+
+    subgraph IE["INSTITUTIONAL ENABLEMENT · P6<br/><i>regulatory coherence · payment interoperability · infrastructure reliability · cybersecurity integrity</i>"]
+        direction TB
+        CAP["FOUR CROSS-BORDER CAPABILITIES<br/>financial-operational · regulatory-adaptation<br/>network-mobilisation · opportunity-enactment<br/><small>derived from Oviatt &amp; McDougall, 1994</small>"]
+        OUT["INTERNATIONALISATION OUTCOMES<br/>entry speed · international scope<br/>international intensity · post-entry persistence<br/><small>endpoints of a given entry episode — not of the process</small>"]
+        CAP -->|"P4 · via reduced liability of foreignness<br/>(Zaheer, 1995)"| OUT
+    end
+
+    FTRO -->|"P2 · formation"| FTOC
+    FTOC -->|"P3 · activation"| CAP
+    OUT -.->|"P7 · learning · resource reconfiguration · revised orchestration<br/>outcome experience re-enters orchestration"| S
+
+    classDef enclosure fill:#f8fafc,stroke:#64748b,stroke-width:2px,stroke-dasharray:8 6,color:#172233;
+    classDef core fill:#e8eef6,stroke:#253b5b,stroke-width:2.5px,color:#172233;
+    classDef process fill:#ffffff,stroke:#253b5b,stroke-width:2px,color:#172233;
+    classDef intermediate fill:#eef2f7,stroke:#253b5b,stroke-width:2.5px,color:#172233;
+    classDef capability fill:#edf5ef,stroke:#2f5d45,stroke-width:2px,color:#172233;
+    classDef outcome fill:#f7f0e8,stroke:#8a5a2b,stroke-width:2px,color:#172233;
+
+    class OR,IE enclosure;
+    class FTRO core;
+    class FR,S,B,L process;
+    class FTOC intermediate;
+    class CAP capability;
+    class OUT outcome;
