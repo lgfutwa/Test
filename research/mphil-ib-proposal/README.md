@@ -6,7 +6,9 @@ Upgraded research proposal for GIBS MPhil in International Business (student 241
 
 | File | Description |
 |---|---|
-| `MPhil_IB_Proposal_Upgraded.md` | Full corrected and refined proposal |
+| `MPhil_IB_Proposal_Final_v3.md` | Current master proposal (INV-grounded FOI / FTRO) |
+| `MPhil_IB_Proposal_Upgraded.md` | Mirror of Final v3 for continuity |
+| `PROJECT_PUBLISH_ALIGNMENT.md` | Alignment check vs Project Publish 2026 + Session 1 pack |
 | `UPGRADE_NOTES.md` | Change log mapping supervisor feedback to upgrades |
 | `figures/foi-framework.svg` | Publication-ready FOI framework figure |
 | `figures/foi-framework.mmd` | Editable Mermaid source |

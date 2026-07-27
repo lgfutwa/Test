@@ -81,7 +81,9 @@ RQs are now analytical and mechanism-oriented, reducing the risk of purely descr
 
 ## Files in this package
 
-- `MPhil_IB_Proposal_Upgraded.md` — full revised proposal ready for supervisor review / conversion to Word
+- `MPhil_IB_Proposal_Final_v3.md` — current master proposal
+- `MPhil_IB_Proposal_Upgraded.md` — mirror of Final v3
+- `PROJECT_PUBLISH_ALIGNMENT.md` — Project Publish 2026 alignment + Session 1 pack
 - `UPGRADE_NOTES.md` — this change log
 - `figures/foi-framework.svg` — publication-ready FOI framework figure
 - `figures/foi-framework.mmd` — editable Mermaid source for the figure
