@@ -1,7 +1,7 @@
 # Upgrade Notes: MPhil IB Proposal → FOI Framework
 
-**Student:** Linda Futwa (24126196)  
-**Original proposal result:** 77% (Pass / A)  
+**Student:** Linda Futwa (24126196)
+**Original proposal result:** 77% (Pass / A)
 **Upgrade purpose:** Correct, refine and theoretically upgrade the proposal in response to supervisor feedback and construct-validity issues.
 
 ---
@@ -94,6 +94,13 @@ RQs are now analytical and mechanism-oriented, reducing the risk of purely descr
 - Replaced the earlier INV triad with four independently observable cross-border capabilities.
 - Positioned P5 on the first-stage orchestration link and P6 on the capability-to-outcome link.
 - Aligned the consistency matrix and qualitative pattern-matching plan with the revised proposition numbering.
+
+### 8. Chapter 3 methodology merge
+
+- Retained the richer procedural methodology (units of analysis/observation, eligibility, saturation log, pilot, second coder, rival explanations, ethics and limitations).
+- Retuned all construct language, RQs and Table 3.1 to FOI/FTRO rather than the older “FinTech enables INV” triad.
+- Kept a single primary analysis method: abductive template analysis with within-case process reconstruction and cross-case pattern matching; Gioia used only as an optional presentational device.
+- Expanded the interview guide with an explicit counterfactual/rival-explanation section.
 
 ---
 
