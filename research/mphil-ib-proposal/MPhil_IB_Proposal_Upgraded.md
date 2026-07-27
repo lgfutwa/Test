@@ -201,7 +201,7 @@ FinTech Resource Orchestration
            ↓
 Integrated Cross-Border FinTech Capability
            ↓ P3
-Cross-Border Internationalisation Capabilities
+Cross-Border Capabilities
            ↓ P4
 Internationalisation Outcomes
 ```
