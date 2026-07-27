@@ -160,12 +160,25 @@ Addressed the Proposal v3 academic review’s high- and medium-priority items:
 
 ---
 
+### 15. Figure 2.1 redrawn to Final v3.5 pathway
+
+- Replaced the older horizontal P1–P6 chain with the v3.5 graphic logic:
+  - **Enclosures** for organisational readiness (P5) and institutional enablement (P6), not single-link moderator arrows
+  - **FTRO core** drawn as structuring → bundling → leveraging with an internal reconfiguration loop
+  - Intermediate node renamed from “integrated cross-border FinTech capability” to **FinTech operating capability (FTOC)**
+  - **P7** recursive feedback from outcomes back to structuring / portfolio composition
+  - Portfolio shown on both function and type axes
+- Updated both `figures/foi-framework.mmd` (editable source) and `figures/foi-framework.svg` (publication render)
+- Promoted `MPhil_IB_Proposal_Final_v3.5.md` as current master
+
+---
+
 ## Recommended next steps for the student
 
 1. Personalise the positionality memo with your own professional background before ethics/fieldwork.
 2. Use the Session 1 pack in `PROJECT_PUBLISH_ALIGNMENT.md` (28 July 2026).
 3. Confirm primary target journal; save author guidelines + two exemplar qualitative articles.
-4. Convert the master Markdown to GIBS Word format and embed Figure 2.1.
+4. Convert the master Markdown (`Final_v3.5`) to GIBS Word format and embed the updated Figure 2.1.
 5. Have the supervisor validate the FOI framing before ethics submission.
 6. Pilot the interview guide with 1–2 respondents and revise probes.
 7. Build a recruitment matrix that deliberately varies country, FinTech configuration and internationalisation outcome.

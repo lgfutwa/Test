@@ -6,12 +6,13 @@ Upgraded research proposal for GIBS MPhil in International Business (student 241
 
 | File | Description |
 |---|---|
-| `MPhil_IB_Proposal_Final_v3.md` | Current master proposal (INV-grounded FOI / FTRO) |
-| `MPhil_IB_Proposal_Upgraded.md` | Mirror of Final v3 for continuity |
+| `MPhil_IB_Proposal_Final_v3.5.md` | Current master proposal (INV-grounded FOI / FTRO / FTOC / P7) |
+| `MPhil_IB_Proposal_Final_v3.md` | Prior master retained for continuity |
+| `MPhil_IB_Proposal_Upgraded.md` | Earlier upgrade mirror |
 | `PROJECT_PUBLISH_ALIGNMENT.md` | Alignment check vs Project Publish 2026 + Session 1 pack |
 | `UPGRADE_NOTES.md` | Change log mapping supervisor feedback to upgrades |
-| `figures/foi-framework.svg` | Publication-ready FOI framework figure |
-| `figures/foi-framework.mmd` | Editable Mermaid source |
+| `figures/foi-framework.svg` | Publication-ready FOI framework figure (v3.5 pathway) |
+| `figures/foi-framework.mmd` | Editable Mermaid source (v3.5 pathway) |
 
 ## Design note
 
@@ -24,8 +25,10 @@ The proposal replaces a direct “FinTech enables INV constructs” logic with t
 ```text
 FinTech Resource Portfolio
 → FinTech Resource Orchestration (structuring, bundling, leveraging)
+→ FinTech Operating Capability (FTOC)
 → Cross-Border Capabilities
 → Internationalisation Outcomes
+→ (P7) learning / reconfiguration back into FTRO
 ```
 
-Organisational readiness and institutional enablement operate as contextual contingencies.
+Organisational readiness and institutional enablement operate as enclosing contingencies rather than single-link moderators.
