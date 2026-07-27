@@ -109,6 +109,13 @@ RQs are now analytical and mechanism-oriented, reducing the risk of purely descr
 - Updated sample plan to approximately 9–15 SME cases plus 3–6 providers and 3–6 regulators/ecosystem actors (about 18–30 interviews).
 - Added separate provider and regulator interview guides, revised consent language, consistency matrix and project plan.
 
+### 10. Chapters 1–2 upgrade
+
+- Rewrote Chapter 1 with a stronger opening paradox, explicit business/academic split, central FOI proposition, conceptual definitions, significance and dissertation roadmap.
+- Standardised on **FTRO** throughout; rejected DFROC / orchestration-leveraging terminology.
+- Upgraded Chapter 2 with FinTech resource properties, orchestration-without-ownership contribution, literature-pattern table, multi-actor implications for embedded design, and a clearer contribution close.
+- Kept corrected capability set and outcome distinctions aligned with Chapter 3 and Figure 2.1.
+
 ---
 
 ## Recommended next steps for the student
