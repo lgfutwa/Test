@@ -120,10 +120,44 @@ RQs are now analytical and mechanism-oriented, reducing the risk of purely descr
 
 ---
 
+### 11. Final v3 theory-hierarchy refinement
+
+- Made INV the grounding theory and ROT the imported mechanism machinery.
+- Added Rumyantseva & Welch (2023) provenance and Westerlund (2020) formation problems.
+- Reordered contributions so INV is the home contribution.
+- Method polish: Archibald et al. online-interview citation; Guest et al. saturation note; code–recode fallback.
+
+### 12. Project Publish alignment (July 2026)
+
+- Checked Final v3 against Purple Pages §10/§16, the Project Publish rubric, course outline and Session 1.
+- Verdict: strong for Block 1 entry and method/theory defence; journal article, findings chapter and letter to editor still required for final §16 package.
+- Added Session 1 elevator pack, Colquitt positioning (theory builders/elaborators), and provisional journal shortlist in `PROJECT_PUBLISH_ALIGNMENT.md`.
+
+---
+
+### 13. Academic review response (July 2026)
+
+Addressed the Proposal v3 academic review’s high- and medium-priority items:
+
+1. ROT vs dynamic capabilities positioning (§2.4)
+2. Institutional voids / Scott pillars / institutional distance for P6 (§2.6)
+3. Reflexivity / positionality (§3.1, §3.6)
+4. Abductive template revision thresholds (§3.5)
+5. Figure 2.1 redrawn with integrated FinTech capability as a distinct node
+6. Intermediate-construct definition (§1.5, §2.4)
+7. Cross-case comparison axes and RQ4 layered contingencies (§3.5)
+8. Adjacent 2023–2024 mechanism literature acknowledged and differentiated
+9. ROT contribution reframed as provisional
+10. Puzzle labelling, interview time-prioritisation, expanded references (~45+)
+
+---
+
 ## Recommended next steps for the student
 
-1. Convert the upgraded Markdown to GIBS Word format and insert Figure 2.1 visually.
-2. Have the supervisor validate the FOI framing before ethics submission.
-3. Before citing any additional empirical statistics, verify each source via DOI/publisher record.
-4. Pilot the interview guide with 1–2 respondents and revise probes.
-5. Build a recruitment matrix that deliberately varies country, FinTech configuration and internationalisation outcome.
+1. Personalise the positionality memo with your own professional background before ethics/fieldwork.
+2. Use the Session 1 pack in `PROJECT_PUBLISH_ALIGNMENT.md` (28 July 2026).
+3. Confirm primary target journal; save author guidelines + two exemplar qualitative articles.
+4. Convert the master Markdown to GIBS Word format and embed Figure 2.1.
+5. Have the supervisor validate the FOI framing before ethics submission.
+6. Pilot the interview guide with 1–2 respondents and revise probes.
+7. Build a recruitment matrix that deliberately varies country, FinTech configuration and internationalisation outcome.

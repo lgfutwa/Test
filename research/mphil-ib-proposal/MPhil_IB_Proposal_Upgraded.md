@@ -41,7 +41,7 @@ Name & Surname Signature
 - List of Appendices
 - Table of Contents
 - Chapter 1. Introduction
-  - 1.1 Opening Paradox and Study Overview
+  - 1.1 Opening Puzzle and Study Overview
   - 1.2 Business Rationale
   - 1.3 Academic Problem and Theoretical Gap
   - 1.4 Research Questions and Aims
@@ -75,7 +75,7 @@ Name & Surname Signature
 
 ## Chapter 1. Introduction
 
-### 1.1 Opening Paradox and Study Overview
+### 1.1 Opening Puzzle and Study Overview
 
 African SMEs are widely recognised as central to employment and economic activity, yet their participation in international markets remains comparatively limited (International Finance Corporation [IFC], 2022; Organisation for Economic Co-operation and Development [OECD], 2021; World Economic Forum [WEF], 2022). At the same time, Africa has experienced rapid expansion of FinTech infrastructures—digital payments, alternative lending, compliance technologies and related platforms—that can reduce some of the financial frictions historically associated with cross-border commerce (IFC, 2023; McKinsey, 2023; Lee & Shin, 2018). Panel evidence confirms the substance beneath these industry accounts: FinTech penetration drives financial development across emerging and developing economies, with the strongest effects precisely where financial-sector performance is weak and financial inclusion is low (Aduba, Asgari, & Izawa, 2023).
 
@@ -103,11 +103,13 @@ Two recent contributions sharpen this opening. Rumyantseva and Welch (2023) revi
 
 Separately, FinTech scholarship shows that digital financial technologies reshape ecosystems and business models (Lee & Shin, 2018; Gomber, Koch, & Siering, 2017) and can improve SME financing access under certain institutional conditions (Abbasi, Alam, Brohi, Brohi, & Nasim, 2021). Digitalisation and platform research likewise links internet-based capabilities to export marketing and internationalisation, while also recognising platform risks (Jean & Kim, 2020; Jean, Kim, & Cavusgil, 2020). Reviews of SME internationalisation continue to treat finance, information technology and network ties as complementary but theoretically fragmented antecedents (Anwar, Li, Al-Omush, & Al-Nimer, 2023).
 
+Adjacent work has begun to move beyond simple adoption–outcome associations. Quantitative studies show that digital platform capabilities and digital resilience can mediate digital-transformation outcomes for internationalising SMEs (Aghazadeh, Zandi, Amoozad Mahdiraji, & Sadraei, 2024), and that resource orchestration helps explain how digitalisation and internationalisation jointly shape firm performance (Bhandari, Zámborský, Ranta, & Salo, 2023). Systematic reviews similarly conclude that digitalisation and internationalisation are increasingly intertwined, yet call for clearer process accounts of how digital resources are configured in SME internationalisation (Bargoni, Ferraris, Vilamová, & Wan Hussain, 2024). These contributions are important, but they remain incomplete for the present purpose: they typically examine broad digitalisation or platform capabilities, manufacturing or multi-industry samples, and/or performance associations rather than reconstructing the firm-level process through which heterogeneous *FinTech* resources become the cross-border capabilities that INV theory associates with early internationalisation in African emerging-market service SMEs.
+
 The unanswered theoretical question is therefore not whether FinTech or digital technologies are associated with internationalisation-related advantages. Rather:
 
 > How do resource-constrained SMEs convert heterogeneous FinTech resources into the cross-border capabilities that INV theory associates with rapid internationalisation?
 
-Existing studies predominantly examine associations between FinTech or digital technology adoption and financing, performance or internationalisation outcomes, treating FinTech as an enabling antecedent while leaving the organisational mechanism through which FinTech resources are transformed into internationalisation capabilities largely unspecified. This is the **capability-generation gap** addressed by the present study.
+Existing studies predominantly examine associations between FinTech or digital technology adoption and financing, performance or internationalisation outcomes, or they model digitalisation at a more aggregate capability level. The organisational mechanism through which complementary FinTech resources are structured, bundled and leveraged into INV-informed internationalisation capabilities remains underspecified. This is the **capability-generation gap** addressed by the present study.
 
 #### 1.3.2 Point of difference
 
@@ -142,6 +144,7 @@ Unlike studies that treat FinTech primarily as an external technological enabler
 
 - **FinTech-Orchestrated Internationalisation (FOI):** A mechanism-based framework explaining how SMEs convert complementary digital financial resources into cross-border internationalisation capabilities through purposeful orchestration under organisational and institutional contingencies. FOI is a capability-generation framework, not a technology-adoption or FinTech-maturity model.
 - **FinTech Resource Orchestration (FTRO):** The firm-level managerial process of structuring, bundling and leveraging complementary FinTech resources to support cross-border activities. FTRO is the central mediating process in the FOI Framework.
+- **Integrated cross-border FinTech capability:** The immediate product of FTRO—a coherent, usable configuration of complementary FinTech resources that can be routinely deployed for international activity. It is distinct from the four INV-informed organisational capabilities it is theorised to activate.
 - **FinTech resource portfolio:** The set of complementary digital financial resources available to the firm across transaction and settlement, financing and liquidity, identity/compliance/risk, and trust/assurance/data-infrastructure domains.
 - **Cross-border internationalisation capabilities:** Firm capacities activated through FTRO, comprising financial-operational, regulatory-adaptation, network-mobilisation and opportunity-enactment capabilities.
 - **Embedded informants:** FinTech providers and regulators or closely related ecosystem actors whose accounts triangulate resource-side affordances and institutional conditions surrounding SME cases.
@@ -211,7 +214,7 @@ Two classes of contingency condition this pathway:
 Because FinTech resources are typically provided externally and regulated publicly, the framework also implies a multi-actor evidence architecture: SMEs reveal orchestration processes; providers reveal resource affordances and integration constraints; regulators reveal institutional conditions. This is why the empirical design is embedded rather than SME-only.
 
 ![Figure 2.1. The FinTech-Orchestrated Internationalisation Framework](figures/foi-framework.svg)
-*Figure 2.1. The FinTech-Orchestrated Internationalisation (FOI) Framework. Source: Author's own.*
+*Figure 2.1. The FinTech-Orchestrated Internationalisation (FOI) Framework, showing FTRO, the intermediate integrated cross-border FinTech capability, INV-informed cross-border capabilities and contingent outcomes. Source: Author's own.*
 
 ### 2.2 SME Internationalisation and INV Theory
 
@@ -271,15 +274,19 @@ Applied to FinTech-enabled internationalisation, **FinTech Resource Orchestratio
 
 FTRO constitutes the theoretical core of the FOI Framework and a context-specific extension of ROT into externally provided, API-mediated and regulatorily gated financial resources—an instance of **orchestration without ownership**. This also answers the provenance question raised by Rumyantseva and Welch (2023): independent ventures need not inherit a resource base when one can be assembled from rented, modular financial infrastructure. Throughout, Resource Orchestration Theory is deployed instrumentally—the theoretical target of the framework remains INV theory.
 
+Dynamic capabilities research offers a related but more macro-level account of how firms sense, seize and reconfigure to adapt under change (Teece, Pisano, & Shuen, 1997; Teece, 2007; Eisenhardt & Martin, 2000). An examiner might reasonably ask whether structuring–bundling–leveraging is simply sensing–seizing–transforming by another name. The present study prefers ROT for three reasons. First, ROT specifies managerial micro-processes at a grain suited to episode-centred qualitative reconstruction, whereas Teece’s framework is deliberately higher-order. Second, FTRO concerns the configuration of a particular resource class—digital financial tools that are typically rented, modular and regulatorily gated—rather than the firm’s overall adaptive capacity. Third, the FOI contribution is to INV theory’s capability-generation problem; ROT is imported as mechanism machinery, not as a competing grand theory of the firm. Dynamic capabilities therefore remain a complementary backdrop against which FTRO can later be situated, not the study’s primary analytic vocabulary.
+
 - In **structuring**, managers select payment providers, lending platforms, compliance tools and related infrastructures according to strategic fit rather than novelty.
 - In **bundling**, complementary resources are integrated—for example combining settlement, financing and compliance tools into a cross-border financial operating system.
 - In **leveraging**, the resulting capabilities are deployed and reconfigured as firms enter new markets, for instance by adapting local payment rails, regional compliance requirements and financing arrangements.
 
 FTRO matters because it explains outcome heterogeneity. Firms with access to similar FinTech resources may achieve markedly different internationalisation results depending on whether those resources are orchestrated into coherent capabilities. Without orchestration, FinTech adoption may remain fragmented operational tooling. With orchestration, FinTech becomes a basis for cross-border capability creation.
 
+The immediate product of successful FTRO is an **integrated cross-border FinTech capability**: a coherent, usable configuration of complementary FinTech resources that the firm can routinely deploy for international activity. This intermediate construct is neither a meta-capability in the Teece sense nor identical to the four INV-informed organisational capabilities that follow it. Empirically, it will be recognised where participants describe FinTech tools as working *together* for cross-border purposes—for example, settlement, liquidity and compliance arrangements that are interoperable, jointly governed and repeatedly reused—rather than as disconnected point solutions. In coding terms, evidence of integration, interoperability workarounds, joint governance and reconfiguration across tools indicates the intermediate construct; evidence of changed cross-border *organisational* capacity (financing operations, regulatory adaptation, network mobilisation, opportunity enactment) indicates capability activation under P3.
+
 ### 2.5 Capability Activation and Internationalisation Outcomes
 
-Once FinTech resources are orchestrated, they are theorised to activate four cross-border capabilities informed by INV theory:
+Once an integrated cross-border FinTech capability has been formed, it is theorised to activate four cross-border capabilities informed by INV theory:
 
 1. **Cross-border financial-operational capability** – managing settlement, liquidity, financing and financial information across markets.
 2. **International regulatory-adaptation capability** – interpreting, satisfying and adjusting to foreign compliance and onboarding requirements.
@@ -301,7 +308,7 @@ FTRO is unlikely to operate uniformly across firms or countries.
 
 **Organisational orchestration readiness** includes absorptive capacity (Cohen & Levinthal, 1990), digital capability, leadership commitment and financial slack. Firms with stronger internal readiness are better positioned to structure and bundle FinTech resources into usable capabilities. SME managerial accounts are the primary evidence for these conditions.
 
-**Institutional enablement** includes regulatory coherence or fragmentation, payment-system interoperability, digital infrastructure reliability and cybersecurity conditions. Institutional voids may increase demand for FinTech as an institutional substitute (Hoskisson, Eden, Lau, & Wright, 2000; North, 1990), yet severe voids, infrastructure failures or contradictory regulations may simultaneously constrain deployment. Panel evidence supports the substitution side of this contingency: FinTech's financial-development effects are strongest in economies with weak financial-sector performance and low financial inclusion (Aduba et al., 2023). On the constraint side, cyberfraud imposes substantial direct and indirect costs on the South African banking industry (Akinbowale, Klingelhöfer, & Zerihun, 2024), illustrating why cybersecurity integrity is treated here as an institutional condition of FinTech-enabled internationalisation rather than a purely technical concern. Institutional conditions are therefore theorised as contingent rather than uniformly positive or negative. Regulator and provider evidence is especially important for specifying these boundary conditions.
+**Institutional enablement** includes regulatory coherence or fragmentation, payment-system interoperability, digital infrastructure reliability and cybersecurity conditions. In emerging markets, institutional voids—absences or weaknesses in market-supporting intermediaries and rules—often raise the cost of international exchange and increase demand for substitute arrangements (Khanna & Palepu, 1997, 2010; Hoskisson, Eden, Lau, & Wright, 2000; North, 1990). FinTech infrastructures can partially fill such voids by providing alternative settlement, credit, identity and assurance rails; yet severe voids, contradictory regulation or infrastructure failure may simultaneously constrain deployment. Scott’s (2014) regulative, normative and cognitive pillars help organise this contingency analytically: licensing and KYC/AML rules (regulative), professional and partner expectations of “acceptable” digital finance practice (normative), and shared understandings of trust and legitimacy in digital payments (cognitive) jointly shape what SMEs can orchestrate across borders. Because internationalisation also involves host-market requirements, institutional distance between home and foreign settings further conditions regulatory-adaptation capability and the conversion of activated capabilities into outcomes (Kostova, 1999; Xu & Shenkar, 2002). Panel evidence supports the substitution side of this contingency: FinTech’s financial-development effects are strongest in economies with weak financial-sector performance and low financial inclusion (Aduba et al., 2023). On the constraint side, cyberfraud imposes substantial direct and indirect costs on the South African banking industry (Akinbowale, Klingelhöfer, & Zerihun, 2024), illustrating why cybersecurity integrity is treated here as an institutional condition of FinTech-enabled internationalisation rather than a purely technical concern. Institutional conditions are therefore theorised as contingent rather than uniformly positive or negative. Regulator and provider evidence is especially important for specifying these boundary conditions.
 
 Because this study is qualitative, these factors are treated as **contextual contingencies** to be examined through comparative case evidence and embedded triangulation, not as statistically estimated moderators.
 
@@ -329,6 +336,9 @@ This pattern is valuable, but incomplete. It provides evidence of association wh
 | FinTech ecosystems and business models (Lee & Shin, 2018; Gomber et al., 2017) | How FinTech transforms financial services | Limited firm-level orchestration explanation for SME internationalisation |
 | Digital finance and SME financing/performance (Abbasi et al., 2021) | FinTech access improves financing or efficiency | Outcome evidence without capability-generation mechanism |
 | Digital platforms and SME/INV internationalisation (Jean & Kim, 2020; Jean et al., 2020) | Platforms enable or constrain internationalisation | Capability transformation remains implicit; platform risk noted but FinTech orchestration underspecified |
+| Digital capabilities / resilience as mediators (Aghazadeh et al., 2024) | Digital platform capability and resilience mediate international growth | Aggregate digitalisation constructs; not FinTech-specific orchestration for INV capabilities |
+| Digitalisation–internationalisation–performance via ROT (Bhandari et al., 2023) | Resource orchestration helps explain digitalisation–performance links under internationalisation | Large-firm/manufacturing panel; performance outcomes rather than process reconstruction of FinTech→capability |
+| Digitalisation and SME internationalisation reviews (Bargoni et al., 2024) | Digitalisation and internationalisation are intertwined | Calls for clearer process accounts; FinTech-specific capability generation still underspecified |
 | Finance–IT–networks mapping (Anwar et al., 2023) | Complementary antecedents of SME internationalisation | Fragmented streams; limited integrated process theory |
 | Revisiting the INV evidence base (Rumyantseva & Welch, 2023) | Incumbent involvement explains early internationalisation in seminal cases | Provenance of capabilities for independent ventures remains unexplained |
 | Digitalisation profiles of international online SMEs (Westerlund, 2020) | Internationally oriented SMEs differ in digital capability profiles | Cross-sectional design cannot observe how capability profiles form |
@@ -356,7 +366,7 @@ The chapter's contribution is threefold, in deliberate order of primacy.
 
 1. **To FinTech–international business research:** it replaces a direct-effect logic with a mechanism-based explanation centred on FTRO.
 2. **To INV theory (the home contribution):** it answers the provenance question the tradition itself has posed (Zahra, 2005; Rumyantseva & Welch, 2023)—the cross-border capabilities that early internationalisation requires need not be endowed at founding or inherited from incumbents; they can be assembled by orchestrating externally provided digital financial resources, under specifiable organisational and institutional conditions.
-3. **To Resource Orchestration Theory:** the borrowed machinery also gains—extending structuring, bundling and leveraging to externally provided, regulatorily gated digital financial resources constitutes orchestration without ownership.
+3. **To Resource Orchestration Theory (provisional extension):** the borrowed machinery also gains analytically—extending structuring, bundling and leveraging to externally provided, regulatorily gated digital financial resources suggests an *orchestration-without-ownership* pathway. Given the study’s MPhil evidence base, this ROT claim is framed as a theoretically motivated proposition warranting further investigation rather than as a fully general extension of ROT.
 
 The hierarchy among these is explicit: the study is grounded in INV theory; Resource Orchestration Theory enters instrumentally, as the machinery that specifies the mechanism INV theory leaves open. The next chapter operationalises this framework through an embedded multiple-case design in which SMEs remain the primary cases and FinTech providers and regulators serve as embedded informants.
 
@@ -373,6 +383,8 @@ An **embedded qualitative multiple-case design** is appropriate because the phen
 ### 3.1 Research Philosophy and Logic of Inquiry
 
 The study adopts an interpretivist, constructionist position. Ontologically, it assumes that the significance and value of a FinTech resource are constructed through managers' interpretations, organisational practices, relationships with foreign counterparties, provider offerings and the institutional setting in which the resource is used. Epistemologically, knowledge of this process is generated through participants' situated accounts, critically interpreted against documentary evidence and relevant theory. The research consequently seeks to understand how decision-makers explain the orchestration of FinTech resources in their firms' internationalisation, rather than to test a predetermined causal effect across a large population (Denzin & Lincoln, 2018; Saunders, Lewis, & Thornhill, 2023).
+
+As an interpretivist inquiry, the researcher’s positionality will shape access, questioning and interpretation. Before fieldwork, a short positionality memo will record prior beliefs about FinTech’s contribution to SME internationalisation, any professional or network relationships that may facilitate or constrain access in Kenya, Nigeria or South Africa, and anticipated interpretive blind spots. The principal risk is over-attributing internationalisation gains to FinTech. Reflexive practice will therefore combine that memo with an ongoing reflexivity journal, supervisor peer debriefing, counterfactual and rival-explanation probes, and explicit attention to negative cases.
 
 An abductive logic of inquiry will be used. Abduction is an iterative inference to the most plausible explanation of observed evidence. The analysis starts with Resource Orchestration Theory and INV theory as sensitising foundations—particularly structuring, bundling and leveraging; cross-border capability activation; and organisational and institutional contingencies—but compares emerging accounts with those concepts and revises the explanation where the evidence requires it (Dubois & Gadde, 2002). Thus, the study will neither impose the FOI Framework on participants' experiences nor treat the evidence as theory-free. The aim is theory elaboration: refining the explanatory reach and boundary conditions of the FOI Framework rather than testing a fixed statistical model.
 
@@ -470,7 +482,7 @@ The saturation log will record interview number, informant category, new and rev
 
 #### 3.4.1 Sources of evidence
 
-Semi-structured interviews are the primary source of evidence (Creswell & Creswell, 2018). Interviews will last approximately 45–75 minutes depending on informant category and will be conducted in English by secure video call, or by telephone where video is impractical. With written consent, interviews will be audio-recorded and transcribed verbatim.
+Semi-structured interviews are the primary source of evidence (Creswell & Creswell, 2018). Interviews will last approximately 45–75 minutes depending on informant category and will be conducted in English by secure video call, or by telephone where video is impractical. With written consent, interviews will be audio-recorded and transcribed verbatim. Because the SME guide is deliberately comprehensive, a **time-prioritisation protocol** will be used: Sections 3–4 (orchestration episodes and capability activation) are essential in every SME interview; Sections 2 and 5 (portfolio and contingencies) are high priority; Sections 1, 6 and 7 (background, counterfactuals and closing) may be abbreviated when time is constrained, with background recovered from documents where possible and at least one counterfactual or rival-explanation probe retained.
 
 Documentary evidence will include, where available: company websites and service descriptions; announcements of foreign clients or market entries; provider product and integration documentation; public regulatory notices, guidelines or policy papers; and non-confidential artefacts voluntarily supplied by participants. Documents will corroborate dates, service usage and contextual claims rather than prove financial performance. A case-evidence log will distinguish SME accounts, provider accounts, regulator accounts, public documents and researcher interpretation.
 
@@ -508,16 +520,16 @@ Before each main interview, the researcher will review available public material
 
 ### 3.5 Data Analysis and Theory Development
 
-Analysis will use **abductive template analysis** (King & Brooks, 2017). Template analysis begins with an a priori coding template derived from FOI constructs, then revises that template as inductive insights emerge. Qualitative-data software such as NVivo or ATLAS.ti will be used for data management, retrieval and auditability; it will not determine themes. Analysis will proceed concurrently with data collection so that emerging explanations inform theoretical sampling.
+Analysis will use **abductive template analysis** (King & Brooks, 2017). Template analysis begins with an a priori coding template derived from FOI constructs, then revises that template as inductive insights emerge. This creates a productive tension: the a priori template provides analytic focus, while abduction requires openness to surprising evidence (Dubois & Gadde, 2002). The template will therefore be held lightly. Codes, relationships and propositions will be revised when (a) multiple cases produce first-order evidence that cannot be accommodated without distorting participants’ meanings, (b) a rival explanation better accounts for the sequence of events than the FOI pathway, or (c) a boundary condition repeatedly qualifies a proposition. Direction and redirection between framework and fieldwork will be logged in analytic memos so that confirmation bias—seeing only what FOI predicts—can be inspected. Qualitative-data software such as NVivo or ATLAS.ti will be used for data management, retrieval and auditability; it will not determine themes. Analysis will proceed concurrently with data collection so that emerging explanations inform theoretical sampling.
 
 The analytical sequence will be:
 
 1. **Familiarisation** with transcripts, documents and field notes by informant category and by SME case.
 2. **A priori template construction** around FinTech resource classes, FTRO processes, integrated FinTech capability, cross-border capabilities, internationalisation outcomes, organisational contingencies, institutional contingencies, and informant-source tags (SME / provider / regulator / document).
 3. **Initial coding**, combining deductive template application with inductive coding of unexpected mechanisms, trade-offs and negative cases.
-4. **Within-case process reconstruction** for each SME using the chain: **FinTech resource portfolio → FTRO practices → capability activation → internationalisation outcome**, with organisational and institutional conditions recorded as enablers or constraints.
+4. **Within-case process reconstruction** for each SME using the chain: **FinTech resource portfolio → FTRO practices → integrated FinTech capability → capability activation → internationalisation outcome**. Organisational readiness (P5) and institutional enablement (P6) will be coded as distinct contingency layers within each case before cross-case synthesis, so that RQ4 is answered through layered rather than collapsed contingency analysis.
 5. **Embedded triangulation**: provider and regulator evidence will be mapped onto the relevant SME cases or country contexts to corroborate, qualify or challenge claims about tool affordances and institutions.
-6. **Cross-case pattern matching** against propositions P1–P6 (Yin, 2018). Matrices will compare SME chains across countries and firm types and will record where provider/regulator evidence supports or contradicts SME interpretations.
+6. **Cross-case pattern matching** against propositions P1–P6 (Yin, 2018). Comparison will proceed in stages: first within-country, then across countries. Primary comparison matrices will organise cases by (i) FTRO sophistication (piecemeal versus integrated), (ii) organisational readiness (higher versus lower), (iii) institutional enablement (more versus less supportive), and (iv) internationalisation outcomes (more versus less successful). Secondary matrices will record where provider/regulator evidence supports or contradicts SME interpretations. Dimensions may be refined during analysis, but these axes provide the initial comparative logic.
 7. **Negative-case and rival-explanation analysis**. Rival accounts—pre-existing foreign networks, founder experience, conventional bank finance, marketplace access or provider-driven rather than firm-orchestrated change—will be actively considered.
 
 Where useful for presentation, first-order participant terms and second-order themes may be organised in a Gioia-style data structure (Gioia, Corley, & Hamilton, 2013). This remains a presentational device; it does not replace template analysis as the primary analytic method. A proposition will be retained only where it is grounded in multiple SME cases, accommodates negative evidence, and, for resource and institutional claims, has been checked against complementary provider or regulator evidence where available.
@@ -530,7 +542,7 @@ Rigour will be designed into the study through credibility, transferability, dep
 
 **Coding validation.** A detailed codebook and decision log will be maintained. After an initial subset of transcripts has been coded, an independent second coder with qualitative-research competence will, where available, code a purposive subset using the draft codebook; differences will be discussed and documented, and the revised codebook will then be applied consistently. Where a second coder is not available, code–recode reliability will be applied: the researcher will re-code a purposive subset of transcripts (approximately 15–20%) after a two-week interval and reconcile discrepancies against the codebook. Periodic peer debriefing with the supervisor will continue during cross-case analysis.
 
-**Dependability and confirmability.** An audit trail will preserve recruitment records, eligibility screens, consent records, interview versions by informant category, recordings, transcripts, field notes, coding iterations, case matrices, embedded-triangulation notes, saturation decisions and proposition revisions. A reflexivity journal will record assumptions about FinTech, access relationships and interpretive decisions.
+**Dependability and confirmability.** An audit trail will preserve recruitment records, eligibility screens, consent records, interview versions by informant category, recordings, transcripts, field notes, coding iterations, case matrices, embedded-triangulation notes, saturation decisions and proposition revisions. The reflexivity journal will record assumptions about FinTech, access relationships, moments when evidence confirms or unsettles prior beliefs, and interpretive decisions; it will be reviewed at coding-revision points and during supervisor debriefs.
 
 **Transferability and analytical generalisation.** Thick description of SME pathways, provider contexts and institutional settings will be provided while protecting identity. Transferability will be facilitated through explicit boundary conditions rather than statistical representativeness.
 
@@ -560,13 +572,19 @@ Abbasi, K., Alam, A., Brohi, N. A., Brohi, I. A., & Nasim, S. (2021). P2P lendin
 
 Aduba, J. J., Jr., Asgari, B., & Izawa, H. (2023). Does FinTech penetration drive financial development? Evidence from panel analysis of emerging and developing economies. *Borsa Istanbul Review, 23*(5), 1078–1097. https://doi.org/10.1016/j.bir.2023.06.001
 
+Aghazadeh, H., Zandi, F., Amoozad Mahdiraji, H., & Sadraei, R. (2024). Digital transformation and SME internationalisation: Unravelling the moderated-mediation role of digital capabilities, digital resilience and digital maturity. *Journal of Enterprise Information Management, 37*(5), 1499–1526. https://doi.org/10.1108/JEIM-02-2023-0092
+
 Akinbowale, O. E., Klingelhöfer, H. E., & Zerihun, M. F. (2024). The assessment of the impact of cyberfraud in the South African banking industry. *Journal of Financial Crime, 31*(2), 287–301. https://doi.org/10.1108/JFC-10-2022-0260
 
 Anwar, M., Li, S., Al-Omush, A., & Al-Nimer, M. (2023). SMEs' internationalization: Mapping the field through finance, ITC, and social ties. *Sustainability, 15*(4), 3162. https://doi.org/10.3390/su15043162
 
 Archibald, M. M., Ambagtsheer, R. C., Casey, M. G., & Lawless, M. (2019). Using Zoom videoconferencing for qualitative data collection: Perceptions and experiences of researchers and participants. *International Journal of Qualitative Methods, 18*. https://doi.org/10.1177/1609406919874596
 
+Bargoni, A., Ferraris, A., Vilamová, Š., & Wan Hussain, W. M. H. (2024). Digitalisation and internationalisation in SMEs: A systematic review and research agenda. *Journal of Enterprise Information Management, 37*(5), 1418–1457. https://doi.org/10.1108/JEIM-12-2022-0473
+
 Barney, J. (1991). Firm resources and sustained competitive advantage. *Journal of Management, 17*(1), 99–120. https://doi.org/10.1177/014920639101700108
+
+Bhandari, K. R., Zámborský, P., Ranta, M., & Salo, J. (2023). Digitalization, internationalization, and firm performance: A resource-orchestration perspective on new OLI advantages. *International Business Review, 32*(4), 102135. https://doi.org/10.1016/j.ibusrev.2023.102135
 
 Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovation. *Administrative Science Quarterly, 35*(1), 128–152. https://doi.org/10.2307/2393553
 
@@ -581,6 +599,8 @@ Dubois, A., & Gadde, L.-E. (2002). Systematic combining: An abductive approach t
 Eisenhardt, K. M. (1989). Building theories from case study research. *Academy of Management Review, 14*(4), 532–550. https://doi.org/10.5465/amr.1989.4308385
 
 Eisenhardt, K. M., & Graebner, M. E. (2007). Theory building from cases: Opportunities and challenges. *Academy of Management Journal, 50*(1), 25–32. https://doi.org/10.5465/amj.2007.24160888
+
+Eisenhardt, K. M., & Martin, J. A. (2000). Dynamic capabilities: What are they? *Strategic Management Journal, 21*(10–11), 1105–1121. https://doi.org/10.1002/1097-0266(200010/11)21:10/11%3C1105::AID-SMJ133%3E3.0.CO;2-E
 
 Gioia, D. A., Corley, K. G., & Hamilton, A. L. (2013). Seeking qualitative rigor in inductive research: Notes on the Gioia methodology. *Organizational Research Methods, 16*(1), 15–31. https://doi.org/10.1177/1094428112452151
 
@@ -600,9 +620,15 @@ Jean, R.-J. B., Kim, D., & Cavusgil, E. (2020). Antecedents and outcomes of digi
 
 Johanson, J., & Vahlne, J.-E. (1977). The internationalization process of the firm: A model of knowledge development and increasing foreign market commitments. *Journal of International Business Studies, 8*(1), 23–32. https://doi.org/10.1057/palgrave.jibs.8490676
 
+Khanna, T., & Palepu, K. (1997). Why focused strategies may be wrong for emerging markets. *Harvard Business Review, 75*(4), 41–51.
+
+Khanna, T., & Palepu, K. G. (2010). *Winning in emerging markets: A road map for strategy and execution*. Harvard Business Review Press.
+
 King, N., & Brooks, J. M. (2017). *Template analysis for business and management students*. Sage.
 
 Knight, G. A., & Cavusgil, S. T. (2004). Innovation, organizational capabilities, and the born-global firm. *Journal of International Business Studies, 35*(2), 124–141. https://doi.org/10.1057/palgrave.jibs.8400071
+
+Kostova, T. (1999). Transnational transfer of strategic organizational practices: A contextual perspective. *Academy of Management Review, 24*(2), 308–324. https://doi.org/10.5465/amr.1999.1893938
 
 Lee, I., & Shin, Y. J. (2018). Fintech: Ecosystem, business models, investment decisions, and challenges. *Business Horizons, 61*(1), 35–46. https://doi.org/10.1016/j.bushor.2017.09.003
 
@@ -626,13 +652,21 @@ Rumyantseva, M., & Welch, C. (2023). The born global and international new ventu
 
 Saunders, M., Lewis, P., & Thornhill, A. (2023). *Research methods for business students* (9th ed.). Pearson Education.
 
+Scott, W. R. (2014). *Institutions and organizations: Ideas, interests, and identities* (4th ed.). Sage.
+
 Sirmon, D. G., Hitt, M. A., & Ireland, R. D. (2007). Managing firm resources in dynamic environments to create value: Looking inside the black box. *Academy of Management Review, 32*(1), 273–292. https://doi.org/10.5465/amr.2007.23466005
 
 Sirmon, D. G., Hitt, M. A., Ireland, R. D., & Gilbert, B. A. (2011). Resource orchestration to create competitive advantage: Breadth, depth, and life cycle effects. *Journal of Management, 37*(5), 1390–1412. https://doi.org/10.1177/0149206310385695
 
+Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. *Strategic Management Journal, 28*(13), 1319–1350. https://doi.org/10.1002/smj.640
+
+Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic capabilities and strategic management. *Strategic Management Journal, 18*(7), 509–533. https://doi.org/10.1002/(SICI)1097-0266(199708)18:7%3C509::AID-SMJ882%3E3.0.CO;2-Z
+
 Westerlund, M. (2020). Digitalization, internationalization and scaling of online SMEs. *Technology Innovation Management Review, 10*(4), 48–57. https://doi.org/10.22215/timreview/1346
 
 World Economic Forum. (2022). *Economic contribution of SMEs*. World Economic Forum.
+
+Xu, D., & Shenkar, O. (2002). Institutional distance and the multinational enterprise. *Academy of Management Review, 27*(4), 608–618. https://doi.org/10.5465/amr.2002.7566108
 
 Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). Sage.
 
