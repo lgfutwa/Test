@@ -1,0 +1,31 @@
+# MPhil IB Proposal Upgrade (FOI Framework)
+
+Upgraded research proposal for GIBS MPhil in International Business (student 24126196).
+
+## Contents
+
+| File | Description |
+|---|---|
+| `MPhil_IB_Proposal_Final_v3.md` | Current master proposal (INV-grounded FOI / FTRO) |
+| `MPhil_IB_Proposal_Upgraded.md` | Mirror of Final v3 for continuity |
+| `PROJECT_PUBLISH_ALIGNMENT.md` | Alignment check vs Project Publish 2026 + Session 1 pack |
+| `UPGRADE_NOTES.md` | Change log mapping supervisor feedback to upgrades |
+| `figures/foi-framework.svg` | Publication-ready FOI framework figure |
+| `figures/foi-framework.mmd` | Editable Mermaid source |
+
+## Design note
+
+Primary cases are technology-enabled service SMEs. FinTech providers and regulators are embedded informants for resource and institutional triangulation within an embedded multiple-case design.
+
+## Core theoretical upgrade
+
+The proposal replaces a direct “FinTech enables INV constructs” logic with the **FinTech-Orchestrated Internationalisation (FOI) Framework**:
+
+```text
+FinTech Resource Portfolio
+→ FinTech Resource Orchestration (structuring, bundling, leveraging)
+→ Cross-Border Capabilities
+→ Internationalisation Outcomes
+```
+
+Organisational readiness and institutional enablement operate as contextual contingencies.

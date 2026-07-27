@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="860" viewBox="0 0 1700 860" role="img" aria-labelledby="title desc">
+  <title id="title">FinTech-Orchestrated Internationalisation Framework</title>
+  <desc id="desc">FinTech resources are transformed through FTRO into an integrated cross-border FinTech capability that activates cross-border capabilities and internationalisation outcomes, conditioned by organisational readiness and institutional enablement.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#253b5b"/>
+    </marker>
+    <marker id="arrow-dashed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#64748b"/>
+    </marker>
+    <style>
+      .box { fill: #fff; stroke: #253b5b; stroke-width: 2.5; rx: 8; }
+      .moderator { fill: #f8fafc; stroke: #64748b; stroke-width: 2.5; stroke-dasharray: 9 6; rx: 8; }
+      .title { font: 700 17px Arial, sans-serif; fill: #172233; }
+      .subtitle { font: italic 13px Arial, sans-serif; fill: #64748b; }
+      .item { font: 14px Arial, sans-serif; fill: #263548; }
+      .small { font: 13px Arial, sans-serif; fill: #475569; }
+      .prop { font: 700 15px Arial, sans-serif; fill: #253b5b; }
+      .arrow { fill: none; stroke: #253b5b; stroke-width: 3; marker-end: url(#arrow); }
+      .conditional { fill: none; stroke: #64748b; stroke-width: 2.5; stroke-dasharray: 9 6; marker-end: url(#arrow-dashed); }
+    </style>
+  </defs>
+
+  <rect width="1700" height="860" fill="#fff"/>
+
+  <rect class="moderator" x="280" y="50" width="420" height="130"/>
+  <text class="title" x="490" y="82" text-anchor="middle">Organisational orchestration readiness</text>
+  <text class="subtitle" x="490" y="105" text-anchor="middle">(first-stage contingency · P5)</text>
+  <text class="small" x="490" y="135" text-anchor="middle">Absorptive capacity | Digital capability</text>
+  <text class="small" x="490" y="156" text-anchor="middle">Leadership commitment | Financial slack</text>
+
+  <rect class="box" x="25" y="300" width="280" height="300"/>
+  <text class="title" x="165" y="335" text-anchor="middle">FinTech resource</text>
+  <text class="title" x="165" y="356" text-anchor="middle">portfolio</text>
+  <line x1="45" y1="370" x2="285" y2="370" stroke="#b5c0ce"/>
+  <text class="item" x="45" y="405">- Transaction and settlement</text>
+  <text class="item" x="45" y="435">- Financing and liquidity</text>
+  <text class="item" x="45" y="465">- Identity, compliance and risk</text>
+  <text class="item" x="45" y="495">- Trust, assurance and data</text>
+  <text class="item" x="58" y="515">infrastructure</text>
+  <text class="subtitle" x="165" y="560" text-anchor="middle">Necessary but insufficient</text>
+  <text class="prop" x="165" y="585" text-anchor="middle">P1</text>
+
+  <rect class="box" x="350" y="300" width="260" height="300"/>
+  <text class="title" x="480" y="340" text-anchor="middle">FinTech Resource</text>
+  <text class="title" x="480" y="362" text-anchor="middle">Orchestration (FTRO)</text>
+  <line x1="370" y1="378" x2="590" y2="378" stroke="#b5c0ce"/>
+  <text class="item" x="385" y="420">- Structuring</text>
+  <text class="item" x="385" y="455">- Bundling</text>
+  <text class="item" x="385" y="490">- Leveraging</text>
+  <text class="subtitle" x="480" y="555" text-anchor="middle">Managerial process</text>
+
+  <rect class="box" x="655" y="300" width="250" height="300"/>
+  <text class="title" x="780" y="345" text-anchor="middle">Integrated cross-border</text>
+  <text class="title" x="780" y="367" text-anchor="middle">FinTech capability</text>
+  <line x1="675" y1="383" x2="885" y2="383" stroke="#b5c0ce"/>
+  <text class="item" x="680" y="425">Coherent configuration of</text>
+  <text class="item" x="680" y="450">complementary FinTech</text>
+  <text class="item" x="680" y="475">resources usable for</text>
+  <text class="item" x="680" y="500">cross-border activity</text>
+  <text class="subtitle" x="780" y="555" text-anchor="middle">Intermediate construct</text>
+
+  <rect class="box" x="950" y="300" width="300" height="300"/>
+  <text class="title" x="1100" y="345" text-anchor="middle">Cross-border</text>
+  <text class="title" x="1100" y="367" text-anchor="middle">capabilities</text>
+  <line x1="970" y1="383" x2="1230" y2="383" stroke="#b5c0ce"/>
+  <text class="item" x="975" y="420">- Financial-operational</text>
+  <text class="item" x="975" y="450">- Regulatory-adaptation</text>
+  <text class="item" x="975" y="480">- Network-mobilisation</text>
+  <text class="item" x="975" y="510">- Opportunity-enactment</text>
+  <text class="subtitle" x="1100" y="555" text-anchor="middle">INV-informed capabilities</text>
+
+  <rect class="box" x="1295" y="300" width="370" height="300"/>
+  <text class="title" x="1480" y="340" text-anchor="middle">Internationalisation outcomes</text>
+  <line x1="1315" y1="358" x2="1645" y2="358" stroke="#b5c0ce"/>
+  <text class="item" x="1325" y="400">- Entry speed</text>
+  <text class="item" x="1325" y="435">- International scope</text>
+  <text class="item" x="1325" y="470">- International intensity</text>
+  <text class="item" x="1325" y="505">- Post-entry persistence and growth</text>
+  <text class="subtitle" x="1480" y="555" text-anchor="middle">Partly via reduced liability of foreignness</text>
+
+  <line class="arrow" x1="305" y1="450" x2="343" y2="450"/>
+  <text class="prop" x="324" y="430" text-anchor="middle">P2</text>
+
+  <line class="arrow" x1="610" y1="450" x2="648" y2="450"/>
+
+  <line class="arrow" x1="905" y1="450" x2="943" y2="450"/>
+  <text class="prop" x="924" y="430" text-anchor="middle">P3</text>
+
+  <line class="arrow" x1="1250" y1="450" x2="1288" y2="450"/>
+  <text class="prop" x="1269" y="430" text-anchor="middle">P4</text>
+
+  <line class="conditional" x1="490" y1="180" x2="480" y2="300"/>
+
+  <rect class="moderator" x="1080" y="700" width="480" height="120"/>
+  <text class="title" x="1320" y="735" text-anchor="middle">Institutional enablement</text>
+  <text class="subtitle" x="1320" y="758" text-anchor="middle">(second-stage contingency · P6)</text>
+  <text class="small" x="1320" y="788" text-anchor="middle">Regulatory coherence | Interoperability</text>
+  <text class="small" x="1320" y="808" text-anchor="middle">Digital infrastructure | Cybersecurity</text>
+
+  <line class="conditional" x1="1320" y1="700" x2="1480" y2="600"/>
+</svg>
