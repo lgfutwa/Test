@@ -169,7 +169,21 @@ Addressed the Proposal v3 academic review’s high- and medium-priority items:
   - **P7** recursive feedback from outcomes back to structuring / portfolio composition
   - Portfolio shown on both function and type axes
 - Updated both `figures/foi-framework.mmd` (editable source) and `figures/foi-framework.svg` (publication render)
-- Promoted `MPhil_IB_Proposal_Final_v3.5.md` as current master
+- Promoted `MPhil_IB_Proposal_Final_v3.5.md` as then-current master
+
+---
+
+### 16. v3.6 density, mechanism-first and feasibility tightenings
+
+Responds to review pressure on conceptual density and master’s-scale feasibility:
+
+1. **Mechanism-first stack:** FOI = framework label; FTRO = sole mediating mechanism; operating configuration (FTOC) demoted to product-of-FTRO language rather than a parallel framework; definitions rewritten as a single causal-role table (§1.5).
+2. **Less taxonomy repetition:** portfolio axes compressed; capability list no longer restated after Table 2.4; propositions and contribution close shortened; abstract/ch. openings stop enumerating every layer.
+3. **Cleaner discriminants with less prose:** Table 2.3 keeps the FTOC vs activation boundary; long vignette/rule blocks compacted into short coding rules + one illustration.
+4. **Minimum viable sample:** 6–9 SMEs + 3 providers + 3 regulators/proxies (≈12–15 interviews); aspirational ceiling up to ≈18–24; saturation assessment from the sixth SME.
+5. **Explicit access plan:** SA-first staged recruitment, warm channels, brokers, directories, LinkedIn/snowball, country-shortfall fallback, living recruitment matrix (§3.3.3; Appendix 4).
+
+Current master: `MPhil_IB_Proposal_Final_v3.6.md`.
 
 ---
 
@@ -178,7 +192,7 @@ Addressed the Proposal v3 academic review’s high- and medium-priority items:
 1. Personalise the positionality memo with your own professional background before ethics/fieldwork.
 2. Use the Session 1 pack in `PROJECT_PUBLISH_ALIGNMENT.md` (28 July 2026).
 3. Confirm primary target journal; save author guidelines + two exemplar qualitative articles.
-4. Convert the master Markdown (`Final_v3.5`) to GIBS Word format and embed the updated Figure 2.1.
-5. Have the supervisor validate the FOI framing before ethics submission.
+4. Convert the master Markdown (`Final_v3.6`) to GIBS Word format and embed Figure 2.1.
+5. Have the supervisor validate the FOI/FTRO framing and minimum viable sample before ethics submission.
 6. Pilot the interview guide with 1–2 respondents and revise probes.
-7. Build a recruitment matrix that deliberately varies country, FinTech configuration and internationalisation outcome.
+7. Build the living recruitment matrix (country × configuration × outcome × negative-case type) before outreach.
