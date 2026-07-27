@@ -11,6 +11,10 @@ Upgraded research proposal for GIBS MPhil in International Business (student 241
 | `figures/foi-framework.svg` | Publication-ready FOI framework figure |
 | `figures/foi-framework.mmd` | Editable Mermaid source |
 
+## Design note
+
+Primary cases are technology-enabled service SMEs. FinTech providers and regulators are embedded informants for resource and institutional triangulation within an embedded multiple-case design.
+
 ## Core theoretical upgrade
 
 The proposal replaces a direct “FinTech enables INV constructs” logic with the **FinTech-Orchestrated Internationalisation (FOI) Framework**:

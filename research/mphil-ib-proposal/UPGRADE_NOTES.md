@@ -102,6 +102,13 @@ RQs are now analytical and mechanism-oriented, reducing the risk of purely descr
 - Kept a single primary analysis method: abductive template analysis with within-case process reconstruction and cross-case pattern matching; Gioia used only as an optional presentational device.
 - Expanded the interview guide with an explicit counterfactual/rival-explanation section.
 
+### 9. Embedded multiple-case upgrade
+
+- Expanded the design to an **embedded multiple-case study**: SMEs as primary cases; FinTech providers and regulators/ecosystem actors as embedded informants.
+- Preserved FTRO as a firm-level mechanism; providers illuminate resource affordances (P1–P2), regulators illuminate institutional contingencies (P6).
+- Updated sample plan to approximately 9–15 SME cases plus 3–6 providers and 3–6 regulators/ecosystem actors (about 18–30 interviews).
+- Added separate provider and regulator interview guides, revised consent language, consistency matrix and project plan.
+
 ---
 
 ## Recommended next steps for the student
