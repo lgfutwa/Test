@@ -152,6 +152,14 @@ Addressed the Proposal v3 academic review’s high- and medium-priority items:
 
 ---
 
+### 14. v3.2 leftovers closed
+
+- Confirmed `figures/foi-framework.svg` embeds the v3 pathway with **integrated cross-border FinTech capability** as a distinct intermediate node.
+- Moved Provider overstatement / Regulator overclaim probes to labelled **Closing** sections (plus open closing items).
+- Added a defensive sentence for the three-year operating minimum: reconstructability practicality, not a claim that younger INVs are theoretically uninteresting.
+
+---
+
 ## Recommended next steps for the student
 
 1. Personalise the positionality memo with your own professional background before ethics/fieldwork.
