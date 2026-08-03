@@ -1,5 +1,7 @@
 # FinTech-Orchestrated Internationalisation: How African Technology-Enabled Service SMEs Convert FinTech Resources into Internationalisation Capabilities
 
+> **Superseded.** This document is retained for revision history only. The canonical proposal is **`MPhil_IB_Proposal_Final_v4.3.md`** (Proposal Final v4.3, 30 July 2026). Harmonised chapter extracts: `Chapter_1_Full_Introduction.md`, `Chapter_2_Full_Literature_Review.md`, `Chapter_3_Full_Methodology.md`. Journal article draft: `ProjectPublish_Article_Sections_1-3.md`.
+
 **Student number: 24126196**
 
 > A research project submitted to the Gordon Institute of Business Science,

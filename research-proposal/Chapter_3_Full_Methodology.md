@@ -1,213 +1,227 @@
 # Chapter 3: Research Methodology and Design
 
-**Study:** Orchestrating FinTech for foreign markets: How African SMEs convert financial technology into internationalisation capabilities
-**Student:** 24126196
-**Purpose of this document:** Full methodology chapter (ProjectPublish Section B), on which the contracted methodology section of the journal article is based.
+**Study:** FinTech-Orchestrated Internationalisation: How African Technology-Enabled Service SMEs Convert Digital Financial Resources into Cross-Border Capabilities  
+**Student:** 24126196 (Linda Futwa)  
+**Source:** Harmonised extract from `MPhil_IB_Proposal_Final_v4.3.md`
 
 ---
 
-## 3.1 Introduction
+This chapter explains the design used to examine how technology-enabled service SMEs in Kenya, Nigeria and South Africa may convert FinTech resources into cross-border capabilities. The study investigates **FTRO**—the proposed explanatory mechanism within the FOI Framework—and the conditions under which orchestration may contribute to internationalisation capabilities and outcomes.
 
-This chapter presents and defends the methodological choices through which the study's research questions are answered. The primary research question — *how do African technology-enabled service SMEs orchestrate FinTech resources to develop the capabilities required for rapid and sustained internationalisation?* — decomposes into four sub-questions concerning orchestration processes (RQ1), capability formation (RQ2), capability–outcome relationships (RQ3), and organisational and institutional contingencies (RQ4). These are process questions: they ask how sequences of managerial decisions unfold inside firms and with what consequences, not how much of a variable is present across a population. The methodology must therefore be capable of producing process evidence, and every choice defended below — interpretivist philosophy, abductive approach, qualitative multiple-case design, purposive maximum-variation sampling, episode-based semi-structured interviewing, and codebook thematic analysis with cross-case pattern matching — follows from that requirement. The chapter maintains the golden thread by mapping each methodological element back to the research questions and to the six propositions (P1–P6) of the FinTech-Orchestrated Internationalisation (FOI) Framework developed in Chapter 2.
+The primary research question is: **How do African technology-enabled service SMEs orchestrate FinTech resources to develop the capabilities required for rapid and sustained internationalisation?** Sub-questions examine FTRO processes and reconfiguration (RQ1), capabilities associated with orchestration (RQ2), outcomes within reconstructed episodes (RQ3), and organisational/institutional conditions (RQ4).
 
-The chapter is structured in the standard format: research philosophy and approach (3.2–3.3); research design (3.4); population and universe (3.5); unit of analysis (3.6); sampling (3.7); the research instrument and pilot testing (3.8–3.9); data collection (3.10); data analysis (3.11); quality controls and trustworthiness (3.12); ethical considerations (3.13); and limitations of the methodology (3.14).
+An **embedded qualitative multiple-case design** fits a processual, context-dependent mechanism that existing INV and FinTech research leaves underspecified. SMEs are primary cases; providers and regulators (or ecosystem proxies) are **contextual embedded informants**. The aim is analytically generalisable refinement of FOI, not statistical representativeness. Sample composition and fieldwork priorities are set out in §3.3.3.
 
-## 3.2 Research Philosophy
+### 3.1 Research Philosophy and Logic of Inquiry
 
-### 3.2.1 Ontological and epistemological position
+The study adopts an interpretivist, constructionist position. Ontologically, it assumes that the significance and value of a FinTech resource are constructed through managers' interpretations, organisational practices, relationships with foreign counterparties, provider offerings and the institutional setting in which the resource is used. Epistemologically, knowledge of this process is generated through participants' situated accounts, critically interpreted against documentary evidence and relevant theory. The research consequently seeks to understand how decision-makers explain the orchestration of FinTech resources in their firms' internationalisation, rather than to test a predetermined causal effect across a large population (Denzin & Lincoln, 2018; Saunders, Lewis, & Thornhill, 2023).
 
-The study adopts an **interpretivist** philosophy. Ontologically, the phenomena under investigation — orchestration decisions, capability formation, and the experience of institutional constraint — are not observer-independent objects but socially constructed processes that exist in and through the meanings managers attach to them. A payment gateway is a technical artefact; the *decision* to pair it with invoice finance and automated onboarding ahead of a Nigerian firm's first Ghanaian client is a socially situated managerial act whose logic is accessible only through the account of those who made it. Epistemologically, therefore, knowledge of FTRO must be co-constructed between researcher and informant: the researcher cannot observe orchestration directly but must reconstruct it from managers' narratives, corroborated against documentary traces.
+As an interpretivist inquiry, the researcher's positionality will shape access, questioning and interpretation. Before fieldwork, a short positionality memo will record prior beliefs about FinTech's contribution to SME internationalisation, any professional or network relationships that may facilitate or constrain access in Kenya, Nigeria or South Africa, and anticipated interpretive blind spots. The principal risk is over-attributing internationalisation gains to FinTech. Reflexive practice will therefore combine that memo with an ongoing reflexivity journal, supervisor peer debriefing, counterfactual and rival-explanation probes, and explicit attention to negative cases.
 
-Interpretivism is preferred over the two principal alternatives on grounds specific to this study rather than by generic preference. A **positivist** stance, operationalising FinTech adoption and internationalisation as variables and testing associations, would reproduce precisely the direct-effect research design whose limitations motivate the study (Chapter 2, Section 2.4): it can establish *whether* FinTech and internationalisation covary but cannot open the organisational black box between them. A **critical realist** stance — which seeks generative mechanisms beneath observed events — is philosophically compatible with mechanism-based theorising and was seriously considered; interpretivism is preferred because the study's contingency questions (RQ4) require access to how managers *perceive and respond to* institutional conditions, not only to the conditions themselves, and because the three-country design makes contextual meaning variation itself an object of study. Axiologically, the researcher acknowledges being part of what is studied: interpretation is value-laden, and Section 3.12 details the reflexivity practices through which this is disciplined rather than denied.
+An abductive logic of inquiry will be used. Abduction is an iterative inference to the most plausible explanation of observed evidence. The analysis is grounded in INV theory and draws on Resource Orchestration Theory for its sensitising process concepts—particularly structuring, bundling and leveraging; cross-border capability activation; and organisational and institutional contingencies—but compares emerging accounts with those concepts and revises the explanation where the evidence requires it (Dubois & Gadde, 2002). Thus, the study will neither impose the FOI Framework on participants' experiences nor treat the evidence as theory-free. The aim is theory elaboration: refining the explanatory reach and boundary conditions of the FOI Framework rather than testing a fixed statistical model.
 
-### 3.2.2 Abductive approach: systematic combining
+The intended theoretical contribution is deliberately bounded. The study will assess whether and how FTRO operates as the proposed explanatory organisational process linking FinTech resource portfolios to INV-informed cross-border capabilities, and under which organisational and institutional conditions these processes strengthen or fail. Provider and regulator evidence will help specify resource-side and institutional boundary conditions, not substitute for firm-level process reconstruction. The outcome is a refined set of propositions about FinTech orchestration in African emerging-market settings, not a claim that FinTech alone causes rapid internationalisation.
 
-The study's logic of inquiry is **abductive**, operationalised as *systematic combining* (Dubois & Gadde, 2002). Pure deduction is inappropriate because the FOI Framework is a new integration whose constructs (notably FTRO and the four cross-border capabilities) require empirical elaboration, not merely testing. Pure induction is equally inappropriate — and would be disingenuous — because the study does not approach the field theory-free: Chapter 2 articulates an explicit framework and six propositions. Systematic combining resolves this by treating the framework as an evolving analytical template: fieldwork confronts the template with empirical surprises; matching between theory, data, and case evidence redirects both the framework and, within limits, the data collection itself (Dubois & Gadde, 2002). The propositions P1–P6 therefore function as *working propositions* in Yin's (2018) sense — theoretical statements that focus data collection and structure pattern matching — and each may be supported, qualified, extended, or disconfirmed. This abductive posture also determines the analysis strategy (template analysis with inductive extension, Section 3.11) and the trustworthiness architecture (deviant-case reporting, Section 3.12), so that the philosophy, approach, analysis, and quality controls form a single coherent chain rather than a sequence of independent selections.
+### 3.2 Research Design: Embedded Qualitative Multiple-Case Study
 
-## 3.3 Research Design: Qualitative Multiple-Case Study
+#### 3.2.1 Rationale for the embedded case-study strategy
 
-### 3.3.1 Choice of strategy
+A qualitative case-study strategy is selected because the research asks how and under what conditions a contemporary phenomenon occurs within its real-life setting, where the boundaries between the phenomenon and its context are inseparable (Yin, 2018). An SME's use of a cross-border payment platform, digital lender or compliance technology cannot be understood independently of its capabilities, provider architectures, foreign-market relationships, regulation and digital infrastructure. Surveys could identify associations between FinTech use and international activity, but they would not adequately reveal the sequence of orchestration decisions, capability activation or contextual contingencies required by the research questions.
 
-A **qualitative multiple-case study** is selected. Three arguments, each anchored in the research questions, justify the choice.
+The design is **embedded** rather than holistic. Each SME case contains multiple sources of evidence: SME decision-maker accounts, firm-level documents and, where accessible, complementary evidence from FinTech providers and regulatory or ecosystem actors linked to the same country context. This preserves the firm as the theoretical unit of analysis for FTRO while recognising that resource affordances and institutional conditions are co-produced outside the firm (Yin, 2018).
 
-**First, process questions require process evidence.** RQ1–RQ3 concern *sequences*: which FinTech resources were acquired and when (structuring), how they were integrated into cross-border routines (bundling), how the integrated stack was deployed and reconfigured on entering specific markets (leveraging), and what followed. Case studies are the preferred strategy where "how" questions are posed about contemporary events over which the investigator has no control and where the boundary between phenomenon and context is not clearly evident (Yin, 2018). FTRO is inseparable from its context by construction — P5 and P6 assert that organisational and institutional conditions shape it — so a design that controls context away would destroy the object of study. Survey designs measuring adoption levels cannot observe orchestration sequences; experimental designs are infeasible and would strip the institutional embeddedness the framework theorises.
+The multiple-case design is justified on three grounds. First, it fits the study's "how" and "under what conditions" questions, which require a process-sensitive account rather than variable associations. Second, it supports theory elaboration through replication: within-case analysis will establish the chronology and mechanism in each SME, while cross-case comparison will assess recurring and contrasting patterns. Cases will be selected for theoretical replication rather than country-level representativeness. Some cases are expected to exhibit similar FTRO mechanisms under comparable conditions (literal replication), while deliberately contrasting cases—for example, firms with strong versus weak digital capabilities, orchestrated versus piecemeal FinTech stacks, or more versus less supportive regulatory environments—will test whether predicted boundary conditions explain different outcomes (Eisenhardt, 1989; Eisenhardt & Graebner, 2007; Yin, 2018). Third, Kenya, Nigeria and South Africa provide deliberately designed cross-country variation in FinTech ecosystems, infrastructure and regulatory environments. Provider and regulator informants strengthen comparison of contextual conditions without converting the study into a national policy evaluation. The locked MVS in §3.3.3—6–9 SMEs with ≥2 per country, plus three providers and three regulators/ecosystem proxies—is sized for this replication logic within the Project Publish window, not for national inference.
 
-**Second, multiple cases enable replication logic.** Each case is treated not as a sampling unit but as an analytical experiment (Yin, 2018). *Literal replications* — cases where similar orchestration patterns are expected to produce similar internationalisation outcomes — corroborate the framework; *theoretical replications* — cases where contrasting orchestration (e.g., broad adoption without bundling) is expected to produce contrasting outcomes for reasons the framework predicts — expose it to disconfirmation. Multi-case designs typically yield more robust, better-grounded, and more generalisable theory than single-case designs (Eisenhardt & Graebner, 2007), and cross-case comparison guards against the vividness and premature closure risks of single-case theorising (Eisenhardt, 1989).
+#### 3.2.2 Units of analysis, embedded units and time horizon
 
-**Third, the contingency questions require variation by construction.** RQ4 asks how organisational readiness and institutional conditions shape FTRO and its outcomes. Answering it requires cases that vary on those conditions. A three-country, heterogeneous-firm design supplies institutional variation (Kenya, Nigeria, South Africa differ sharply in regulatory architecture, payment-system interoperability, and institutional depth) and organisational variation (firms differing in absorptive capacity, digital capability, leadership engagement, and slack) as design features rather than statistical afterthoughts.
+The **primary unit of analysis is the SME**: each case is bounded by the firm's FinTech-orchestrated internationalisation process.
 
-### 3.3.2 Time horizon
+The design includes three **informant categories**:
 
-The design is **cross-sectional with retrospective process reconstruction**: internationalisation and orchestration histories are reconstructed at a single point in time from informant narratives and documentary evidence. A longitudinal design following firms through successive market entries would provide stronger process evidence and is identified as future research; it is infeasible within the study's duration. The known weaknesses of retrospection — recall error and post-hoc rationalisation — are mitigated through the episode-based interviewing technique and documentary timeline verification described in Sections 3.8 and 3.10, and are acknowledged as residual limitations in Section 3.14.
+1. **SME founders and senior managers** — primary evidence on FTRO processes, capability activation and internationalisation outcomes (RQ1–RQ4; P1–P7).
+2. **FinTech providers** — contextual embedded evidence on product affordances, interoperability, onboarding/compliance requirements, pricing and cross-border constraints that shape what SMEs can structure and bundle (especially P1–P2 and parts of P6).
+3. **Financial regulators and closely related ecosystem actors** — contextual embedded evidence on regulatory coherence or fragmentation, licensing, KYC/AML expectations, payment-system interoperability, cybersecurity expectations and other institutional conditions (especially P6 and RQ4).
 
-## 3.4 Population and Research Context
+Providers and regulators are **not separate theoretical cases of FTRO**, and they are **not required matched embedded units for every SME**. They are contextual embedded informants—or, where direct SME linkage is unavailable, supplementary country-level embedded evidence—whose accounts help corroborate, challenge or contextualise SME process reconstruction. Where a provider directly serves one or more sampled SMEs, that linkage will be recorded in the case-evidence log.
 
-### 3.4.1 Universe and target population
+The inquiry is cross-sectional with a retrospective process component. SME interviews will reconstruct key episodes from the period in which the firm first entered foreign markets or materially expanded those activities and configured relevant FinTech resources. Where a firm has entered more than one foreign market, the earliest and most recent episodes will both be reconstructed, enabling within-case comparison of orchestration practice over time and providing the evidence base for P7 without requiring longitudinal fieldwork. Provider and regulator interviews will focus on contemporary and recent conditions affecting SME cross-border FinTech use. For each SME case, the researcher will create a short chronology of internationalisation events and FinTech orchestration decisions, corroborated where possible by dated secondary sources and, where available, complementary provider or regulatory evidence.
 
-The universe is African SMEs engaged in cross-border business activity. The **target population** is bounded, for reasons of both theoretical relevance and claim discipline, to: *technology-enabled service SMEs (10–250 employees, operational for at least three years) headquartered in Kenya, Nigeria, or South Africa, that have undertaken international activity (exporting services, serving foreign clients, or operating abroad) and that use at least one FinTech resource in cross-border operations.*
+### 3.3 Population, Sampling and Case Selection
 
-Each boundary is motivated. The **sector restriction** (technology-enabled services: software, digital services, e-commerce operations, business-process outsourcing and similar) selects firms for which cross-border activity is digitally intermediated, so that FinTech resources are plausibly consequential to their internationalisation rather than incidental; it also holds the export mode (digitally delivered services) broadly constant across cases, sharpening cross-case comparison. The **size and age floors** ensure established operations with an internationalisation history capable of reconstruction. The **FinTech-use criterion** ensures the phenomenon of interest is present in every case; critically, however, the population is *not* restricted to successful internationalisers — stalled and retrenched internationalisers are deliberately included (Section 3.7.2). Claims arising from the study are made about this population, with analytical generalisation to theory (Section 3.12.2); no claim is made about African SMEs in general.
+#### 3.3.1 Populations and sampling frames
 
-### 3.4.2 Rationale for the three-country context
+Three related populations are sampled:
 
-Kenya, Nigeria, and South Africa are selected on theoretical grounds. They host the continent's three most developed FinTech ecosystems, so the FinTech resource portfolio (Stage 1 of the FOI Framework) is richly present in all three — a scope condition for observing orchestration at all. Simultaneously, they differ in the institutional dimensions P6 theorises: mobile-money-centric versus bank-centric payment architectures, divergent licensing and data-protection regimes, and different degrees of institutional depth and infrastructure reliability. The context is thus of *theoretical import*: where market-supporting institutions are weak or absent (Khanna & Palepu, 1997; North, 1990), FinTech operates as an institutional substitute, rendering the orchestration mechanism and its institutional contingencies observable in sharper relief than in developed markets. The cross-country structure converts context from background into evidence.
+1. **Technology-enabled service SMEs** headquartered in Kenya, Nigeria or South Africa that have engaged in cross-border business and use at least one FinTech solution relevant to that activity.
+2. **FinTech providers** offering payments/settlement, digital lending/liquidity, RegTech/compliance or trust/assurance infrastructures used by SMEs in those countries.
+3. **Financial regulators and closely related ecosystem actors** with remit or expertise over digital payments, digital credit, AML/KYC, data protection, cybersecurity or SME-facing financial inclusion and cross-border finance.
 
-## 3.5 Unit of Analysis
+Technology-enabled services—including software and digital services, e-commerce-enabled services, digital marketing, business-process services and related knowledge-intensive activities—are selected because firms in these sectors can plausibly use digital financial tools in both operational and internationalisation processes, and because financial, compliance and trust frictions rather than physical logistics are typically the binding constraints. The study is not limited to FinTech firms as primary cases; it examines SMEs that use FinTech as an input to internationalisation.
 
-The **primary unit of analysis is the individual SME**: FTRO is a firm-level process, capabilities are firm-level properties, and internationalisation outcomes accrue to firms. Within each case, the **embedded unit of analysis is the foreign-market-entry episode** — a discrete entry into (or attempted entry into, or withdrawal from) a foreign market, together with the FinTech decisions attached to it. The embedded design (Yin, 2018) is analytically important for two reasons. First, it multiplies observations: a nine-to-twelve-case study may contain twenty-five or more entry episodes, permitting within-case comparison (did the firm orchestrate differently on its second entry than its first, and why?) as well as cross-case comparison. Second, it operationalises the leveraging construct directly, since leveraging is theorised as market-specific deployment and reconfiguration (Sirmon et al., 2011): the episode is the natural grain at which leveraging is visible. Informants (founders, chief executives, finance leads, heads of international business) are sources of evidence about these units, not units of analysis themselves.
+Sampling frames will be developed from incubators and accelerators, SME and exporter associations, FinTech industry associations, provider networks, regulatory directories, professional networks, LinkedIn and publicly available company and policy information. Recruitment through multiple channels reduces dependence on a single intermediary.
 
-## 3.6 Sampling Strategy
+#### 3.3.2 Eligibility and exclusion criteria
 
-### 3.6.1 Sampling method
+**SME cases** will be eligible where they meet all of the following criteria:
 
-Probability sampling is neither feasible (no sampling frame of the target population exists in any of the three countries) nor appropriate (the study seeks depth of process evidence and theoretical variation, not population estimates). The study therefore employs **purposive, criterion-based sampling with a maximum-variation logic** (Eisenhardt, 1989; Yin, 2018). Screening criteria operationalise the population definition of Section 3.4.1; selection among eligible firms then deliberately maximises variation on the dimensions the FOI Framework predicts should matter:
+- Headquartered in Kenya, Nigeria or South Africa and meeting the applicable national SME definition, or, where definitions differ, approximately 10–250 employees.
+- Operated for at least three years.
+- **Substantive foreign-market activity:** recurring foreign revenue, contracted overseas clients, active foreign partnerships, or an operational foreign-market channel—not merely occasional foreign sales.
+- **Early or rapid internationalisation** under one of the decision rules below.
+- Use of at least one, and preferably multiple, relevant FinTech resource classes in connection with cross-border activity.
+- At least one senior participant able to discuss internationalisation and FinTech decisions in informed detail.
 
-| Variation dimension | Levels sought | Framework rationale |
-|---|---|---|
-| Country / institutional setting | Kenya; Nigeria; South Africa | P6: institutional conditions condition capability deployment |
-| FinTech portfolio breadth | Narrow (1–2 resource classes) to broad (all four) | P1, P4: portfolio properties and complementarity |
-| Apparent orchestration maturity | Single-tool users to integrated-stack operators | P2, P3: FTRO as the mechanism |
-| Internationalisation speed | Rapid (first foreign revenue within three years of founding; Knight & Cavusgil, 2004) vs. later | Distinguishes INV-type from incremental pathways |
-| Internationalisation outcome | Sustained vs. stalled/retrenched | Theoretical replication; guards against success bias |
-| Organisational readiness (screened qualitatively) | Higher vs. lower digital capability and leadership engagement | P5: readiness conditions resource-to-FTRO conversion |
+**Eligibility decision rules (rapidity / earliness).** International entrepreneurship research treats earliness and speed as related but distinct temporal properties (Oviatt & McDougall, 2005). Inclusion requires at least one of:
 
-The inclusion of **stalled or retrenched internationalisers** deserves emphasis because it corrects a defect common in this literature and present in the original proposal: sampling only successful internationalised adopters selects on the dependent variable and renders orchestration unfalsifiable. If FTRO explains outcomes, then weak, absent, or institutionally blocked orchestration should be observable in less successful cases; their inclusion converts the design from illustration to test.
-
-### 3.6.2 Recruitment
-
-Cases are recruited through parallel channels to reduce single-channel selection bias: professional and alumni networks; technology hubs, incubators, and accelerators in Nairobi, Lagos, and Johannesburg/Cape Town; export-promotion and industry associations; FinTech providers' merchant communities; and LinkedIn outreach, supplemented by snowball referrals from confirmed cases (particularly for the harder-to-reach stalled internationalisers, who are less publicly visible than success stories). Screening is conducted through a short pre-interview questionnaire covering the eligibility criteria and the variation dimensions.
-
-### 3.6.3 Sample size and adequacy
-
-The target is **nine to twelve SMEs (three to four per country), with one to two informants per SME, yielding approximately twelve to twenty interviews**. This size is justified on three converging grounds rather than asserted:
-
-1. **Replication structure.** The minimum architecture the design requires is one contrast pair per country (at least one sustained and one stalled internationaliser), i.e., six cases; three to four per country provides the pair plus literal replications (Yin, 2018).
-2. **Theory-building convention.** The target sits within the four-to-ten-case range recommended for multi-case theory building, above which complexity overwhelms cross-case analysis and below which theoretical grounding thins (Eisenhardt, 1989); the upper end (twelve) is retained as headroom for the stopping rule below.
-3. **Empirical saturation evidence.** Systematic evidence indicates that interview studies with focused aims and information-rich informants typically reach adequacy within nine to seventeen interviews (Hennink & Kaiser, 2022), and adequacy is best judged through **information power** — the more specific the aim, the more information-rich the sample, and the stronger the theoretical backdrop, the smaller the required sample (Malterud, Siersma, & Guassora, 2016). This study's aim is narrow, informants are elite and information-rich, and the theoretical frame is fully specified, all of which raise information power.
-
-### 3.6.4 Operationalised stopping rule
-
-Consistent with critiques of unoperationalised saturation claims (Braun & Clarke, 2021; Saunders et al., 2018), the study pre-specifies a **two-condition stopping rule** in place of a loose assertion that "saturation was reached." After the initial nine cases are coded, data collection continues in increments of one case per country until, per country: (1) the last two cases coded have generated **no new codes relevant to propositions P1–P6** (new codes on peripheral matters do not reset the counter); and (2) **every proposition is supported, qualified, or disconfirmed by evidence from at least two cases** in that country. The decision, and the coding evidence underlying it, are documented in the audit trail (Section 3.12.3). If the rule is not met at twelve cases, the deviation and its rationale will be reported transparently rather than concealed.
-
-## 3.7 Research Instrument
-
-### 3.7.1 Instrument design
-
-The primary instrument is a **semi-structured interview protocol** (Appendix 2 of the proposal), chosen because it combines the comparability across cases that cross-case analysis requires with the openness that abduction requires: the protocol ensures every framework construct is addressed in every case while leaving room for the unanticipated practices and conditions from which the study's inductive contribution will come.
-
-The protocol is organised in six sections mapped to the framework and research questions: (1) firm background and full internationalisation timeline, including paused or abandoned activities (RQ3 baseline); (2) FinTech structuring — the acquisition, selection, and divestment of tools, with probes for decision rationale and decision-maker (RQ1); (3) bundling and leveraging — step-by-step reconstruction of the cross-border order-to-cash process, market-specific reconfiguration, and critical incidents that tested the stack (RQ1, RQ2); (4) outcomes — entry lead times, international revenue share, and changes in how foreign counterparties dealt with the firm (RQ3); (5) organisational and institutional conditions, with concrete-example probes and a cross-country counterfactual prompt (RQ4); (6) forward plans and closing. The consistency matrix (Appendix 1 of the proposal) documents the question-to-construct-to-analysis mapping, maintaining the golden thread at instrument level.
-
-Two design techniques strengthen evidence quality. **Episode-based reconstruction:** informants narrate each foreign-market entry chronologically, anchoring accounts in specific, dateable events rather than general impressions; event-anchored recall is more resistant to retrospective smoothing than summary judgements and produces the episode-level data the embedded design requires. **Neutral, non-presuming wording:** no question presupposes that a technology was adopted, or that its effect was positive — e.g., "What technologies or arrangements, if any, changed how foreign customers or partners dealt with you — for better or worse? Please describe a specific event" — correcting the leading formulations of the original protocol (e.g., "Has blockchain improved trust?") that would have manufactured confirmation.
-
-### 3.7.2 Pilot testing
-
-The protocol is **pilot-tested with two interviews** — one rapid internationaliser and one later internationaliser — selected to stress the instrument at both ends of the speed dimension. The pilot assesses: comprehensibility of terminology (e.g., whether "FinTech" as a category resonates with informants or whether tool-level language is required); the workability and duration of the episode-reconstruction technique; question order effects; and the adequacy of probes for the bundling construct, which is the least directly observable. Pilot learnings are documented in a pilot memo, the protocol revised, and the revision approved in supervision before main fieldwork. Pilot interviews are included in the analysable dataset only if revisions prove immaterial; otherwise they are treated as instrument development only, and this decision is reported.
-
-## 3.8 Data Collection
-
-### 3.8.1 Primary data
-
-Interviews of **60–75 minutes** are conducted online (Microsoft Teams or Zoom), audio-recorded with consent, and transcribed verbatim. Online conduct is justified by the three-country geography and elite informants' scheduling constraints; its limitations (connectivity exclusion, rapport attenuation) are mitigated through scheduling flexibility, camera-optional practice, and a telephone fallback, and are acknowledged in Section 3.14 — noting that the bias toward digitally connected firms is less distorting here than it would be elsewhere, because digital connectivity is a scope condition of the target population itself. Where possible, **two informants per firm** (e.g., founder plus finance lead) are interviewed separately, providing within-case triangulation of the orchestration narrative; where only one informant is available, documentary triangulation is weighted more heavily and the case is flagged in the audit trail.
-
-### 3.8.2 Secondary data
-
-For each case, a documentary corpus is assembled: company website and product documentation; press coverage and funding announcements; public regulatory or company-registry records where available; and provider-side documentation of the specific FinTech tools named in interviews. Secondary data serve two defined functions: **triangulation** of interview claims (markets served, tools used, partnership announcements) and **independent timeline construction** (founding, market entries, product launches), against which retrospective interview accounts are checked. Discrepancies between narrative and documentary timelines are not suppressed but treated as analytically informative and, where material, raised with informants during member checking.
-
-### 3.8.3 Data management
-
-All recordings, transcripts, and documents are stored on encrypted, password-protected, university-approved storage, under a case-coding scheme separating identities from data (Section 3.13). An interview log records date, duration, informant role, and any deviations from protocol.
-
-## 3.9 Data Analysis
-
-### 3.9.1 Analytical strategy
-
-Analysis follows **codebook thematic analysis in the template-analysis tradition** (King, 2012), selected because it is purpose-built for the study's abductive situation: an a priori theoretical template, derived from the FOI Framework, that is systematically confronted with and revised against data. This choice also repairs a methodological incoherence in the original proposal, which combined grounded-theory vocabulary (theoretical sampling, axial coding) with reflexive thematic analysis — traditions with incompatible assumptions about the role of prior theory. Grounded-theory terminology is not used in this study.
-
-### 3.9.2 Analytical procedure
-
-Analysis proceeds in six documented steps, supported by ATLAS.ti or NVivo. The software manages data, coding, and the audit trail; the researcher performs the analysis — no analytical authority is delegated to the tool.
-
-1. **Familiarisation.** Repeated reading of transcripts against recordings; a case memo opened per firm recording first impressions, puzzles, and potential deviations from the framework.
-2. **Within-case process reconstruction.** For each firm, a chronological case narrative is constructed: the internationalisation timeline, each market-entry episode, and the FinTech decisions attached to each episode, validated against the documentary timeline. These narratives are the raw material for episode-level analysis and are the artefacts submitted for member checking.
-3. **Template coding (deductive).** The initial template operationalises the framework: *structuring* (acquire, accumulate, divest), *bundling* (stabilise, enrich, pioneer), and *leveraging* (mobilise, coordinate, deploy) from Sirmon et al. (2011); the four cross-border capabilities (financial-operational, regulatory-adaptation, network-mobilisation, opportunity-enactment); the four outcome dimensions (entry speed, scope, intensity, persistence); and the organisational and institutional condition codes. A codebook defines each code with inclusion and exclusion criteria and an exemplar quotation.
-4. **Inductive extension.** Segments the template cannot accommodate receive new inductive codes. The template is revised — codes added, split, merged, or redefined — and *all previously coded transcripts are recoded against the revised template*, so that early and late cases are analysed identically. Template versions are archived; this is where the abductive contribution (emergent orchestration practices, unanticipated capabilities or contingencies) is generated and documented.
-5. **Cross-case pattern matching.** Case-ordered displays and matrices (Miles, Huberman, & Saldaña, 2020) array orchestration patterns, capability evidence, outcomes, and conditions across cases and countries. Patterns predicted by P1–P6 are matched against observed patterns using pattern-matching and explanation-building logic (Yin, 2018). **Negative and deviant cases receive explicit, reported analysis** — in particular the theoretically critical cells: firms with broad portfolios but weak outcomes (predicted by P2/P3 to show weak bundling or blocked deployment) and firms with narrow portfolios but strong outcomes (predicted to show tight complementary bundling or favourable institutional conditions).
-6. **Data structure and reporting.** Findings are reported through a first-order concepts → second-order themes → aggregate dimensions data structure (Gioia, Corley, & Hamilton, 2013), with verbatim evidence for every second-order theme, and each finding explicitly tied to the research question and proposition it addresses.
-
-### 3.9.3 Coding validation
-
-A second coder (supervisor or academic peer) independently codes approximately **20% of transcripts**, purposively selected to span countries and outcome types. Disagreements are resolved through documented discussion; where disagreement reveals codebook ambiguity, the code definition is revised and affected material recoded. Consistent with the interpretivist stance, the objective is **coding transparency and defensibility** — a documented, contestable trail from quotation to theme — rather than inter-rater reliability statistics, whose assumptions (a single correct coding) sit uneasily with the study's epistemology.
-
-## 3.10 Quality Controls: Rigour and Trustworthiness
-
-Quality is assessed against the qualitative criteria of **credibility, transferability, dependability, and confirmability** (Lincoln & Guba, 1985), each implemented through named mechanisms rather than invoked rhetorically.
-
-| Criterion | Mechanisms in this study |
+| Pathway | Decision rule |
 |---|---|
-| Credibility | Data triangulation across informants (two per firm where possible), data types (interviews × documents), and settings (three countries). Member checking of *interpreted case summaries* — informants receive the case narrative and the interpretations attributed to their firm, not merely transcripts, and corrections are documented and adjudicated. Peer debriefing with the supervisor at three fixed checkpoints: protocol revision post-pilot; codebook version 1; cross-case analysis. |
-| Transferability | Thick description of each case (sector, size, FinTech stack, internationalisation history, institutional setting) sufficient for readers to judge applicability to other contexts; explicit population boundaries (Section 3.4.1) and analytical-generalisation posture (below). |
-| Dependability | A complete audit trail: sampling and screening records; interview log; protocol versions with pilot memo; codebook and template versions with change rationales; the stopping-rule decision and its evidentiary basis; analysis memos. Maintained in the analysis software and a research journal. |
-| Confirmability | A reflexivity journal recording the researcher's assumptions, expectations, and evolving interpretations, reviewed at each supervision checkpoint. Deviant-case evidence reported alongside confirming evidence, so the framework is exposed to genuine disconfirmation rather than curated support. |
+| **Early internationaliser** | First foreign revenue, client or contract within approximately three years of founding. |
+| **Rapid post-establishment internationaliser** | Documented move from primarily domestic activity to substantive foreign activity within a defined 12–24 month period after the firm’s first material domestic trading. |
 
-**Generalisation posture.** The study claims **analytical generalisation** — from case evidence to the FOI Framework's constructs and propositions — not statistical generalisation to a population (Yin, 2018; Eisenhardt & Graebner, 2007). Findings are expected to inform theory applicable to comparable settings (technology-enabled service SMEs in institutionally thin, FinTech-rich environments), with applicability elsewhere a matter for reader judgement supported by thick description and for future comparative research.
+Screening decisions will be recorded in a one-page case-screening log (country, SME size band, pathway met, evidence of substantive foreign activity, FinTech classes used, and inclusion/exclusion rationale) so that case selection remains auditable across countries.
 
-## 3.11 Ethical Considerations
+**FinTech-provider informants** will be eligible where the organisation offers SME-relevant digital financial services in at least one study country and a knowledgeable product, partnerships, compliance or market-expansion lead can discuss cross-border use cases, integration requirements and constraints.
 
-Ethical approval will be obtained from the GIBS Research Ethics Committee before any contact with participants. The study's ethical architecture comprises:
+**Regulator/ecosystem informants** will be eligible where the individual has current or recent professional responsibility for, or specialist knowledge of, digital financial regulation, payment systems, AML/KYC, cybersecurity or SME financial-access policy in a study country.
 
-- **Informed consent.** Written consent (Appendix 3 of the proposal) covering purpose, voluntariness, the right to decline any question or withdraw at any time without penalty (with destruction of withdrawn data), recording and transcription, and the use of anonymised verbatim quotations in a publicly available report.
-- **Anonymity and confidentiality.** Firms and individuals are pseudonymised at transcription; identifying details (named clients, unique products, distinctive events) are redacted or generalised in quotations; the key linking identities to case codes is stored separately from the data and is accessible only to the researcher and supervisor. Because the FinTech and tech-SME communities in each country are small and internally visible, anonymisation is treated as a substantive design problem, not a formality: case descriptions are written to the minimum specificity the analysis requires.
-- **Commercial sensitivity.** Questions about financing, revenue shares, and regulatory encounters are answerable at whatever level of generality the informant chooses; no documentary evidence is solicited that the firm has not made public or does not volunteer.
-- **Data protection and security.** Encrypted, password-protected, university-approved storage; retention for the minimum period required by university policy (five years) followed by secure destruction; processing compliant with South Africa's POPIA and with applicable Kenyan and Nigerian data-protection law for cross-border participants.
-- **Minimising harm.** Interview questions are neutrally phrased; discussing failed internationalisation attempts can be uncomfortable, and informants are reminded before Section 1 and Section 4 of the protocol of their right to skip or stop.
+Micro-enterprises with no substantive cross-border activity, SMEs that only use conventional online banking with no material internationalisation role, providers with no SME or cross-border relevance, and participants unable to provide informed consent will be excluded.
 
-## 3.12 Limitations of the Methodology
+#### 3.3.3 Sampling strategy, minimum viable sample and access plan
 
-The following limitations are inherent to the chosen design; each is stated with its mitigation and its residual risk.
+Purposive, maximum-variation sampling will be used initially, followed by theoretical sampling as analysis progresses (Patton, 2015). Because the Aug–Nov window is compact for a three-country design, the study locks a **minimum viable sample (MVS)** as the official fieldwork target and treats any larger total as an optional ceiling, not a success criterion. The safest executable design protects six SMEs first.
 
-1. **Analytical, not statistical, generalisation.** Findings generalise to theory and comparable contexts, not to all African SMEs. This is a designed property, managed through explicit population boundaries — but readers seeking prevalence estimates will not find them here; a quantitative operationalisation and test of FTRO is identified as the natural sequel.
-2. **Retrospective self-report.** Orchestration histories are reconstructed from memory and are vulnerable to recall error and post-hoc rationalisation (success stories acquiring retrospective coherence). Mitigations: episode-based, event-anchored interviewing; independent documentary timelines; two informants per firm where possible; member checking. Residual risk is acknowledged, particularly for older episodes.
-3. **Access and self-selection bias.** Firms willing to discuss FinTech and internationalisation — especially failures — may differ systematically from refusers. Mitigations: multi-channel recruitment, snowballing, and the deliberate pursuit of stalled cases. The direction of residual bias (likely toward more reflective, more digitally engaged firms) is acknowledged.
-4. **Online interviewing.** Possible exclusion of poorly connected informants and attenuated rapport. Mitigations as in Section 3.8.1; residual bias toward connected firms is bounded by the fact that connectivity is a population scope condition.
-5. **Researcher interpretation.** Interpretivist analysis is constitutively interpretive. Discipline comes from the reflexivity journal, second-coder validation, documented template revisions, and deviant-case reporting — mechanisms that make interpretation contestable, not absent.
-6. **Cross-sectional design.** Process is reconstructed, not observed. A longitudinal panel of SMEs followed through successive market entries, and comparative extensions to other African markets and to non-service sectors, are identified as future research flowing directly from this design's boundaries.
+**The MVS comprises 12–15 interviews: six to nine SME decision-makers, three provider informants, and three regulator or ecosystem informants.** At the lower bound, 6 + 3 + 3 = 12; at the upper SME target, 9 + 3 + 3 = 15. Second SME informants within a case are opportunistic and are excluded from this protected 12–15 count unless deliberately added.
 
-## 3.13 Conclusion
+**Official minimum viable sample (locked):**
 
-The methodology forms a single coherent chain from question to claim: process questions (RQ1–RQ4) demand process evidence; an interpretivist, abductive multiple-case design produces it; purposive maximum-variation sampling with contrast cases makes the FOI Framework testable rather than merely illustrable; an episode-based, neutrally worded instrument generates event-anchored data; template analysis with inductive extension converts the framework into a revisable analytical engine; and the trustworthiness architecture — triangulation, member checking, audit trail, reflexivity, deviant-case reporting, and an operationalised stopping rule — makes every analytical step contestable. Chapter 4 reports the findings this machinery produces.
+| Informant category | Protected minimum | MVS target | Optional ceiling | Role in FOI evidence architecture |
+|---|---|---|---|---|
+| SME cases (decision-makers) | **6** (**2 per country**) | **6–9** (typically 2–3 per country) | Up to 12 (stop earlier if sufficiency met) | Primary unit of analysis for FTRO, capability activation and outcomes (P1–P7; RQ1–RQ4) |
+| SME second informants | — | Opportunistic within cases; **outside the 12–15 MVS count** unless deliberately added | Same | Within-case triangulation only |
+| FinTech providers | Prefer 1/country | **3** (1 per country) | Up to 6 | Contextual embedded evidence on resource affordances (P1, P2, parts of P6) |
+| Regulators / ecosystem actors | Prefer 1/country; proxy acceptable | **3** (1 per country) | Up to 6 | Contextual embedded evidence on institutional contingencies (P6; RQ4) |
+| **Total interviews (MVS)** | **12** (6+3+3); may fall toward 9–12 if ancillary slots cut for negative cases | **12–15** | **≈18–24** | Embedded multi-perspective base for analytical generalisation |
 
----
+**Why this sample size is adequate (not merely convenient).** The MVS is justified by research purpose and context, not by volume. Eisenhardt (1989) treats four to ten primary cases as a useful theory-building range; six to nine SMEs with deliberate cross-country and negative-case coverage therefore sit squarely within established qualitative case guidance for MPhil analytical generalisation (Yin, 2018). Guest, Bunce and Johnson (2006) similarly show that thematic saturation often emerges within approximately twelve interviews in relatively homogeneous subsamples. Composition matters more than count: (i) SMEs remain the theoretical cases; (ii) providers and regulators are **contextual triangulation caps**, not parallel case streams; (iii) all three countries must be represented before write-up; and (iv) **at least one negative/disconfirming SME case is protected even if that means reducing provider or regulator interviews**. Additional interviews beyond the MVS are added only to resolve theoretically important contrasts. Cross-country comparison refines boundary conditions; it does not compare national systems.
 
-## References (Chapter 3)
+**Claim discipline.** The design supports bounded propositions about FTRO as a firm-level mechanism. It does **not** support country-level statistical comparison, nationally representative statements about Kenya, Nigeria or South Africa, or claims that FinTech alone causes rapid internationalisation. Cross-country contrasts will be reported as contextual variation in contingencies (especially P6)—to refine boundary conditions, **not to compare national systems**—qualified by the thinness of 2–3 SMEs and one institutional informant per country.
 
-Braun, V., & Clarke, V. (2021). To saturate or not to saturate? Questioning data saturation as a useful concept for thematic analysis and sample-size rationales. *Qualitative Research in Sport, Exercise and Health, 13*(2), 201–216. https://doi.org/10.1080/2159676X.2019.1704846
+**Composition floor (non-negotiable).**
 
-Dubois, A., & Gadde, L.-E. (2002). Systematic combining: An abductive approach to case research. *Journal of Business Research, 55*(7), 553–560. https://doi.org/10.1016/S0148-2963(00)00195-8
+1. At least **six** SME cases, with **exactly two SMEs per country as the protected floor** (additional SMEs only after the floor and negative-case pursuit are secure).
+2. Prefer at least **one** FinTech-provider and **one** regulator/ecosystem informant per country (proxy substitutions logged); these remain secondary to SME adequacy and negative-case pursuit.
+3. Active pursuit of at least one pre-specified negative-case type among SMEs; absence of an integrated-stack/no-activation case (P3 discriminant) must be reported and explained.
+4. Provider and regulator evidence used to corroborate, challenge or qualify SME claims—not to substitute for firm-level process reconstruction.
 
-Eisenhardt, K. M. (1989). Building theories from case study research. *Academy of Management Review, 14*(4), 532–550. https://doi.org/10.5465/amr.1989.4308385
+**Access plan (explicit).** Recruitment begins in South Africa (researcher proximity and densest reachable networks), then Kenya and Nigeria in parallel via remote interviews:
 
-Eisenhardt, K. M., & Graebner, M. E. (2007). Theory building from cases: Opportunities and challenges. *Academy of Management Journal, 50*(1), 25–32. https://doi.org/10.5465/amj.2007.24160888
+1. **Warm channels first:** GIBS / alumni networks; prior professional contacts in digital services and FinTech; introductions from supervisors and cohort peers.
+2. **Institutional brokers:** incubators and accelerators (e.g. country tech hubs); SME / exporter associations; FinTech associations; payment and lending provider partnership teams.
+3. **Public directories:** regulatory and ecosystem actor lists for digital payments, AML/KYC and financial inclusion; written invitation with information sheet and short topic guide.
+4. **Digital outreach:** LinkedIn targeted search for eligible SME decision-makers; snowball from each completed interview (two nominated peers where appropriate).
+5. **Fallback rules:** if a country yields fewer than two SMEs by mid-September, intensify broker outreach in that country and accept a temporary 4+2 or 3+3 cross-country imbalance, provided the composition floor (≥2 SMEs per country; all three countries present) is restored before write-up; if a regulator is inaccessible, substitute a closely related ecosystem actor (association, sandbox operator, policy researcher) and record the substitution in the case-evidence log.
 
-Gioia, D. A., Corley, K. G., & Hamilton, A. L. (2013). Seeking qualitative rigor in inductive research: Notes on the Gioia methodology. *Organizational Research Methods, 16*(1), 15–31. https://doi.org/10.1177/1094428112452151
+A living **recruitment matrix** will track country, sector, FinTech configuration (piecemeal vs integrated), internationalisation outcome variation, and negative-case type sought. Weekly review against the locked MVS thresholds protects the critical path. Under timeline pressure, meeting the MVS and discriminant negative-case pursuit takes priority over expanding toward the optional ceiling.
 
-Hennink, M., & Kaiser, B. N. (2022). Sample sizes for saturation in qualitative research: A systematic review of empirical tests. *Social Science & Medicine, 292*, 114523. https://doi.org/10.1016/j.socscimed.2021.114523
+#### 3.3.4 Documented sufficiency (theoretical saturation)
 
-Khanna, T., & Palepu, K. (1997). Why focused strategies may be wrong for emerging markets. *Harvard Business Review, 75*(4), 41–51.
+Adequacy of the SME sample will be judged as a **documented sufficiency decision**, not an automatic mechanical stop. After each interview, the researcher will update a case summary, coding template, case-by-construct matrix and sufficiency log. From the **sixth** SME case onward—provided the composition floor in §3.3.3 is met—continuing or stopping will be decided against the criteria below. A signal of diminishing conceptual yield (for example, two consecutive SME interviews that add no new first-order codes or new properties/relationships/boundary conditions for an existing FOI theme) is one indicator among several, consistent with evidence that thematic saturation often emerges within approximately twelve interviews in relatively homogeneous subsamples (Guest, Bunce, & Johnson, 2006). It is not, by itself, an automatic stop rule.
 
-King, N. (2012). Doing template analysis. In G. Symon & C. Cassell (Eds.), *Qualitative organizational research: Core methods and current challenges* (pp. 426–450). Sage.
+Sufficiency will be assessed against:
 
-Knight, G. A., & Cavusgil, S. T. (2004). Innovation, organizational capabilities, and the born-global firm. *Journal of International Business Studies, 35*(2), 124–141. https://doi.org/10.1057/palgrave.jibs.8400071
+1. **Theoretical replication** across SME cases for central FOI relationships.
+2. **Country coverage** of the planned Kenya–Nigeria–South Africa variation (protected floor met).
+3. **Active pursuit of negative/disconfirming cases** (§3.5). Absence of an integrated-stack/no-activation case must be reported and explained.
+4. **Stability of central mechanism relationships** among portfolio, FTRO, operating configuration, capability activation and outcomes such that an additional SME case is unlikely to alter emerging propositions materially.
+5. **Diminishing conceptual yield** from additional interviews (the two-interview signal above is one documented indicator).
+6. **Claim discipline:** analytical generalisation of FTRO, not country-level statistical inference.
+7. Where available, provider and regulator (or ecosystem-proxy) evidence has been used to corroborate, challenge or qualify SME claims about tools and institutions; the locked MVS of three providers and three regulators is treated as sufficient triangulation unless a theoretically important contrast remains unresolved.
 
-Lincoln, Y. S., & Guba, E. G. (1985). *Naturalistic inquiry*. Sage.
+The sufficiency log will record interview number, informant category, new and revised codes, theme-property changes, unresolved contrasts and the reasoned decision to continue or stop. A code-frequency and new-code-by-interview table will be reported in the final thesis or appendix.
 
-Malterud, K., Siersma, V. D., & Guassora, A. D. (2016). Sample size in qualitative interview studies: Guided by information power. *Qualitative Health Research, 26*(13), 1753–1760. https://doi.org/10.1177/1049732315617444
+### 3.4 Data Collection Instruments and Procedures
 
-Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). *Qualitative data analysis: A methods sourcebook* (4th ed.). Sage.
+#### 3.4.1 Sources of evidence
 
-North, D. C. (1990). *Institutions, institutional change and economic performance*. Cambridge University Press.
+Semi-structured interviews are the primary source of evidence (Creswell & Creswell, 2018). Interviews will last approximately 45–75 minutes depending on informant category and will be conducted in English by secure video call, or by telephone where video is impractical. With written consent, interviews will be audio-recorded and transcribed verbatim. Because the SME guide is comprehensive, a **time-prioritisation protocol** applies: Sections 3–4 (FTRO episodes and capability activation, including discriminant probes) are essential; Sections 2 and 5 (portfolio and contingencies) are high priority; Sections 1, 6 and 7 may be abbreviated, with at least one counterfactual or rival-explanation probe retained.
 
-Saunders, B., Sim, J., Kingstone, T., Baker, S., Waterfield, J., Bartlam, B., Burroughs, H., & Jinks, C. (2018). Saturation in qualitative research: Exploring its conceptualization and operationalization. *Quality & Quantity, 52*(4), 1893–1907. https://doi.org/10.1007/s11135-017-0574-8
+Documentary evidence will include, where available: company websites and service descriptions; announcements of foreign clients or market entries; provider product and integration documentation; public regulatory notices, guidelines or policy papers; and non-confidential artefacts voluntarily supplied by participants. Documents will corroborate dates, service usage and contextual claims rather than prove financial performance. A case-evidence log will distinguish SME accounts, provider accounts, regulator accounts, public documents and researcher interpretation.
 
-Sirmon, D. G., Hitt, M. A., Ireland, R. D., & Gilbert, B. A. (2011). Resource orchestration to create competitive advantage: Breadth, depth, and life cycle effects. *Journal of Management, 37*(5), 1390–1412. https://doi.org/10.1177/0149206310385695
+#### 3.4.2 Theory-linked interview protocols
 
-Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). Sage.
+Three related interview guides will be used. All guides are open-ended and do not presume that FinTech was beneficial. The SME guide remains the core instrument for reconstructing FTRO. Provider and regulator guides are shorter and focused on complementary FOI constructs. Full guides appear in Appendix 2.
+
+**Table 3.1. Embedded informant roles in the FOI evidence architecture**
+
+| Informant category | Primary FOI contribution | Main propositions | Illustrative focus |
+|---|---|---|---|
+| SME managers (primary cases) | Process reconstruction of FTRO, capabilities and outcomes | P1–P7 | Tool selection, bundling, reconfiguration, capability activation, outcomes, contingencies |
+| FinTech providers (contextual embedded) | Resource affordances and integration constraints | P1, P2, P6 | Cross-border product design, APIs, onboarding, compliance rails, SME adoption frictions |
+| Regulators / ecosystem actors (contextual embedded) | Institutional enablement and regulatory contingencies | P6, RQ4 | Licensing, KYC/AML fragmentation, interoperability, cybersecurity, SME access conditions |
+
+**Table 3.2. SME interview guide alignment with FOI propositions**
+
+| Guide section | Research question | FOI construct | Propositional focus |
+|---|---|---|---|
+| Firm background and internationalisation timeline | Context | Pathway and outcomes | P1/P4 context |
+| FinTech resource portfolio | RQ1 | Resource inputs | P1 |
+| Structuring, bundling and leveraging episodes | RQ1 | FTRO processes | P2 |
+| Capability activation (organisational referents required) | RQ2 | Operating configuration vs capabilities | P3; Table 2.3 |
+| Internationalisation outcomes | RQ3 | Speed, scope, intensity, persistence | P4 |
+| Reconfiguration across successive entries | RQ1 | Recursive FTRO | P7 |
+| Organisational and institutional conditions | RQ4 | Contingencies | P5–P6 |
+| Counterfactuals, failures and rival explanations | RQ1–RQ4 | Boundary conditions; learning loop | Challenges P2–P6; evidences P7 |
+
+Neutral probes such as "Can you give an example?", "What changed operationally?", and "What else could explain that change?" will be used consistently.
+
+#### 3.4.3 Pilot and fieldwork protocol
+
+The SME guide and online-interview process will be pilot-tested with two eligible or near-eligible SME decision-makers who are not intended to form part of the main sample. Provider and regulator guides will be lightly piloted or expert-reviewed for clarity and sensitivity. Pilot data will not normally be combined with the main dataset.
+
+Before each main interview, the researcher will review available public material and prepare non-leading follow-up prompts. Immediately afterwards, a reflexive field note will record contextual observations, preliminary analytic ideas, technical problems and potential researcher assumptions. Transcripts will be checked against recordings, de-identified and returned to participants for factual correction where appropriate. Participating SMEs that opt in may receive a short plain-language case summary; participants will not be asked to approve the researcher's final theoretical interpretation.
+
+### 3.5 Data Analysis and Theory Development
+
+Analysis will use **abductive template analysis** (King & Brooks, 2017). Template analysis begins with an a priori coding template derived from FOI constructs, then revises that template as inductive insights emerge. This creates a productive tension: the a priori template provides analytic focus, while abduction requires openness to surprising evidence (Dubois & Gadde, 2002). The template will therefore be held lightly. Codes, relationships and propositions will be revised when (a) multiple cases produce first-order evidence that cannot be accommodated without distorting participants' meanings, (b) a rival explanation better accounts for the sequence of events than the FOI pathway, or (c) a boundary condition repeatedly qualifies a proposition. Direction and redirection between framework and fieldwork will be logged in analytic memos so that confirmation bias—seeing only what FOI predicts—can be inspected. Qualitative-data software such as NVivo or ATLAS.ti will be used for data management, retrieval and auditability; it will not determine themes. Analysis will proceed concurrently with data collection so that emerging explanations inform theoretical sampling.
+
+The analytical sequence will be:
+
+1. **Familiarisation** with transcripts, documents and field notes by informant category and by SME case.
+2. **A priori template construction** around portfolio, FTRO processes, operating configuration, cross-border capabilities, outcomes, contingencies, and source tags (SME / provider / regulator / document).
+3. **Initial coding**, combining template application with inductive coding of unexpected mechanisms and negative cases. Operating configuration and capability activation are coded from separate evidence per Table 2.3; integration without organisational change is flagged as a candidate integrated-stack/no-activation case.
+4. **Within-case process reconstruction** for each SME: **portfolio → FTRO → operating configuration → capability activation → outcome**, with readiness (P5) and institutional enablement (P6) as distinct contingency layers.
+5. **Embedded triangulation**: provider and regulator evidence will be mapped onto the relevant SME cases or country contexts to corroborate, qualify or challenge claims about tool affordances and institutions.
+6. **Cross-case pattern matching** against propositions P1–P7 (Yin, 2018). Comparison will proceed in stages: first within-country, then across countries. Primary comparison matrices will organise cases by (i) FTRO sophistication (piecemeal versus integrated), (ii) organisational readiness (higher versus lower), (iii) institutional enablement (more versus less supportive), and (iv) internationalisation outcomes (more versus less successful). Secondary matrices will record where provider/regulator evidence supports or contradicts SME interpretations. Dimensions may be refined during analysis, but these axes provide the initial comparative logic.
+7. **Negative-case and rival-explanation analysis**. Three pre-specified negative-case types: (i) portfolio without orchestration (challenges P2); (ii) integrated stack without activation (challenges P3—the decisive discriminant case); (iii) activation without outcomes (challenges P4 or implicates P6). Rival accounts—pre-existing foreign networks, founder experience, conventional bank finance, marketplace access or provider-driven change—will be considered alongside these.
+
+Where useful for presentation, first-order participant terms and second-order themes may be organised in a Gioia-style data structure (Gioia, Corley, & Hamilton, 2013). This remains a presentational device; it does not replace template analysis as the primary analytic method. A proposition will be retained only where it is grounded in multiple SME cases, accommodates negative evidence, and, for resource and institutional claims, has been checked against complementary provider or regulator evidence where available.
+
+### 3.6 Rigour and Trustworthiness
+
+Rigour will be designed into the study through credibility, transferability, dependability and confirmability (Lincoln & Guba, 1985), alongside established case-study procedures.
+
+**Credibility and construct quality.** Triangulation will operate across SME informants within a case where possible, across SME cases, across informant categories (SME, provider, regulator), and across interview and documentary sources. Concrete episodes, timelines and counterfactual probes reduce reliance on broad retrospective claims. Disconfirming evidence and unsuccessful orchestration cases will be sought.
+
+**Coding validation.** The codebook treats the operating-configuration / capability boundary as a named decision: each capability code records its organisational referent. Where a second coder is available, the purposive subset will include transcripts in which integration and organisational change are hard to separate. Otherwise, code–recode reliability on approximately 15–20% of transcripts after a two-week interval will be applied. Supervisor peer debriefing continues during cross-case analysis.
+
+**Dependability and confirmability.** An audit trail will preserve recruitment records, eligibility screens, consent records, interview versions by informant category, recordings, transcripts, field notes, coding iterations, case matrices, embedded-triangulation notes, saturation decisions and proposition revisions. The reflexivity journal will record assumptions about FinTech, access relationships, moments when evidence confirms or unsettles prior beliefs, and interpretive decisions; it will be reviewed at coding-revision points and during supervisor debriefs.
+
+**Transferability and analytical generalisation.** Thick description of SME pathways, provider contexts and institutional settings will be provided while protecting identity. Transferability will be facilitated through explicit boundary conditions and claim discipline (§3.3.3) rather than statistical representativeness. Findings will be framed as analytically generalisable propositions about FTRO under specified organisational and institutional conditions, not as country-representative estimates.
+
+### 3.7 Ethical Considerations and Data Management
+
+Ethical approval will be obtained from the GIBS Research Ethics Committee before recruitment and data collection. All participants will receive an information sheet and consent form explaining the study purpose, procedures, voluntary nature of participation, recording arrangements, foreseeable risks and the right to skip questions or withdraw without penalty. Consent will be documented before recording begins.
+
+The main foreseeable risks include inadvertent disclosure of commercially sensitive SME or provider information and politically or institutionally sensitive regulatory commentary. Participants will be asked not to disclose confidential third-party information and may decline any question. Firms, providers, regulators and individuals will be assigned pseudonyms or role descriptors, and potentially identifying details will be generalised or omitted. Direct quotations will be screened for identifiability. The key linking identities to pseudonyms will be stored separately from research data.
+
+Audio files, transcripts, consent records and analytic files will be held in password-protected, encrypted university-approved storage accessible only to the researcher and supervisor where required. Because personal data will be collected in three jurisdictions, processing will comply with the South African Protection of Personal Information Act 4 of 2013 (POPIA), Nigeria's Data Protection Act 2023 and Kenya's Data Protection Act 2019, in addition to University of Pretoria policy. Lawful basis will be the participant's explicit consent; data will be minimised to what the research questions require; cross-border storage will use university-approved infrastructure; and participants will be informed of their rights of access, correction and deletion. Data will be retained and destroyed in accordance with institutional policy and the applicable statute in each jurisdiction. Online interviews will use secure links and waiting-room controls. Any change to the sample, protocol or data handling after ethics approval will be submitted for approval where required.
+
+### 3.8 Methodological Limitations
+
+The design has limitations that shape interpretation and claim discipline. First, rapid internationalisation is reconstructed retrospectively; timelines and secondary sources mitigate but cannot eliminate recall bias. Second, online interviewing may favour digitally connected participants (Archibald, Ambagtsheer, Casey, & Lawless, 2019). Third, the MVS of 12–15 interviews (six to nine SME decision-makers, three providers, and three regulators/ecosystem informants) cannot support country-level statistical comparisons or nationally representative statements; cross-country contrasts are contextual, not inferential. Fourth, SME, provider and regulator accounts may overstate FinTech's contribution, product impact or formal rules respectively. Construct proximity remains a specific risk—operating configuration and capabilities can be described in overlapping language—addressed by Table 2.3, organisational-referent coding and the integrated-stack/no-activation negative case. Fifth, direct SME–provider linkages will not always be obtainable; where absent, provider evidence remains country-level triangulation rather than case-linked corroboration. Sixth, the compact Aug–Nov window and three-country scope create access risk; the MVS, composition floor and staged access plan in §3.3.3 are the design's response, accepting that the optional ceiling of ≈18–24 interviews may not be reached and must not be treated as a quality deficit if the MVS and negative-case pursuits are met.
+
+These limitations are consistent with the study's purpose: carefully bounded propositions about FTRO. Future research could test them longitudinally or quantitatively, and extend the design to product exporters and further African settings.
+
+### 3.9 Chapter Summary and Project Horizon
+
+This chapter sets out an interpretivist, abductive **embedded multiple-case design** centred on FTRO as the proposed explanatory mechanism within the FOI Framework. SMEs are primary cases; providers and regulators (or ecosystem proxies) are contextual embedded informants. The MVS comprises **12–15 interviews: six to nine SME decision-makers, three provider informants, and three regulator or ecosystem informants**, with a protected floor of six SMEs (two per country), claim-discipline rules, an access plan and a documented sufficiency decision. Meeting this floor with negative-case pursuit is the quality standard; expanding toward the optional ceiling is secondary. A detailed project plan is provided in Appendix 4.

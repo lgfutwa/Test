@@ -1,5 +1,33 @@
 # Revision Change Log — MPhil IB Proposal (Student 24126196)
 
+**Canonical source (current):** `MPhil_IB_Proposal_Final_v4.3.md` — Proposal Final v4.3, 30 July 2026.  
+**Superseded:** `FOI_Proposal_Revised.md` (July 2026 interim revision).  
+**Harmonised outputs:** `Chapter_1_Full_Introduction.md`, `Chapter_2_Full_Literature_Review.md`, `Chapter_3_Full_Methodology.md`, `ProjectPublish_Article_Sections_1-3.md`.
+
+---
+
+## 6. v4.3 harmonisation (August 2026 — proposal + ProjectPublish + chapters)
+
+Full harmonisation aligned all workspace documents to Proposal Final v4.3.
+
+| Area | v4.3 change | Files updated |
+|---|---|---|
+| Title and scope | *FinTech-Orchestrated Internationalisation: How African Technology-Enabled Service SMEs Convert Digital Financial Resources into Cross-Border Capabilities*; technology-enabled **service** SMEs; cross-border **capabilities** (not generic internationalisation capabilities) | All harmonised files |
+| Theory hierarchy | INV = **grounding theory**; ROT = **imported mechanism machinery** (FTRO); FinTech literature = resource class | Ch.2, ProjectPublish §2 |
+| Framework stages | Portfolio → FTRO → **operating configuration (FTOC)** → **capability activation** → outcomes → **P7 feedback loop** (replaces Portfolio → FTRO → Capabilities → Outcomes; P1–P6 only) | Ch.2, ProjectPublish §2, Figure 1 |
+| Propositions | **P1–P7**; P3 discriminant (integrated stack without organisational change); P7 learning/reconfiguration | Ch.2–3, ProjectPublish §2.6 |
+| FinTech portfolio | Function × type matrix (assets, infrastructure, services, intelligence) | Ch.2, ProjectPublish §2.3 |
+| Literature | Reinstated **Rumyantseva & Welch (2023)**, **Westerlund (2020)**; added **Aduba et al. (2023)**, **Aghazadeh et al. (2024)**, **Bhandari et al. (2023)**; grey sources (IFC, OECD, WEF, McKinsey) for context | Ch.1–2, ProjectPublish §1–2 |
+| Research questions | Formal RQs in Ch.1; interpretivist hedging (“**appear to**” in RQ2–RQ4); RQ1 includes **reconfiguration over time** | Ch.1, ProjectPublish §1 |
+| Methodology | **Embedded** multiple-case design; SMEs = primary cases; **providers + regulators** = contextual embedded informants; **MVS 12–15** (6–9 SMEs + 3 + 3); protected floor **6 SMEs (2/country)**; three interview guides; documented sufficiency (not mechanical saturation); negative-case pursuit (integrated-stack/no-activation) | Ch.3, ProjectPublish §3 |
+| Dynamic capabilities | Explicit FTRO vs dynamic-capabilities distinction (Table 2.2 in proposal) | Ch.2 |
+| Chapter extracts | Chapters 1–3 extracted verbatim from v4.3 proposal body | `Chapter_*_Full_*.md` |
+| ProjectPublish | Sections 1–3 rewritten to v4.3 framework, design, and references; seven propositions; embedded MVS; placeholders retained for empirical Sections 4–6 | `ProjectPublish_Article_Sections_1-3.md` |
+
+---
+
+## 1–5. Prior revision cycle (FOI_Proposal_Revised.md)
+
 This log maps each supervisor comment (and each additional defect identified during revision) to the specific change made in `FOI_Proposal_Revised.md`. Original proposal: *FinTech-Enabled Internationalisation: Accelerating Global Expansion for African SMEs* (26 May 2025; graded 77%).
 
 ## 1. Problem formulation (supervisor: 16/20)
