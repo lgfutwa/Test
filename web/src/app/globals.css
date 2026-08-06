@@ -1,0 +1,69 @@
+@import 'tailwindcss';
+
+/**
+ * Nikela-OS design tokens.
+ *
+ * The palette is anchored in community-green with a warm ochre accent. System
+ * fonts are used deliberately: the target audience is on entry-level Android
+ * devices with metered data, so no webfont is downloaded.
+ */
+@theme {
+  --color-brand-50: #e9f5f0;
+  --color-brand-100: #cfe9df;
+  --color-brand-200: #a3d5c3;
+  --color-brand-300: #6dbb9f;
+  --color-brand-400: #319a76;
+  --color-brand-500: #0b6e4f;
+  --color-brand-600: #095a41;
+  --color-brand-700: #074734;
+  --color-brand-800: #053526;
+  --color-brand-900: #032118;
+
+  --color-ochre-50: #fdf5e9;
+  --color-ochre-100: #f8e6c8;
+  --color-ochre-200: #f0cd94;
+  --color-ochre-300: #e4ac57;
+  --color-ochre-400: #d18f28;
+  --color-ochre-500: #b0741b;
+  --color-ochre-600: #8c5b15;
+
+  --color-ink-900: #0d1a15;
+  --color-ink-700: #263a33;
+  --color-ink-500: #4d6159;
+  --color-ink-300: #8c9c96;
+  --color-ink-100: #dde5e1;
+
+  --color-surface: #f6f8f7;
+  --color-canvas: #ffffff;
+
+  --color-danger-500: #b4231f;
+  --color-danger-50: #fbecec;
+  --color-warn-500: #b45309;
+  --color-warn-50: #fdf3e3;
+
+  --font-sans:
+    system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, monospace;
+
+  --radius-card: 0.875rem;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--color-surface);
+  color: var(--color-ink-900);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/**
+ * Tabular figures keep money columns aligned across every statement and
+ * fee breakdown, which is a transparency requirement rather than a nicety.
+ */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
